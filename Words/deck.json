@@ -1327,7 +1327,6 @@
                     "guid": "D!TAYVuHi,",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N1"
                     ]
                 },
@@ -1454,7 +1453,6 @@
                     "guid": "IhF:mzR?m)",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N1"
                     ]
                 },
@@ -1623,7 +1621,6 @@
                     "guid": "b9x{?txd9#",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N1"
                     ]
                 },
@@ -2114,7 +2111,6 @@
                     "guid": "b.HY*72-8C",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N1"
                     ]
                 },
@@ -2827,7 +2823,6 @@
                     "guid": "NuHE}VJw(?",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N1"
                     ]
                 },
@@ -3542,7 +3537,6 @@
                     "guid": "q%qo?J(!t2",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N1"
                     ]
                 },
@@ -4449,7 +4443,6 @@
                     "guid": "N*:^8DrShM",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N1"
                     ]
                 },
@@ -4786,7 +4779,6 @@
                     "guid": "H8-kOhMYZ1",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N1"
                     ]
                 },
@@ -4885,7 +4877,6 @@
                     "guid": "L:idIy^,}6",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N1"
                     ]
                 },
@@ -5236,7 +5227,6 @@
                     "guid": "Hc.Ji(+D|8",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N1"
                     ]
                 },
@@ -5251,7 +5241,6 @@
                     "guid": "jBo7xnW2>l",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N1"
                     ]
                 },
@@ -5336,7 +5325,6 @@
                     "guid": "fOm*F/lZ(I",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N1"
                     ]
                 },
@@ -5449,7 +5437,6 @@
                     "guid": "hg0eO@}S-y",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N1"
                     ]
                 },
@@ -5520,7 +5507,6 @@
                     "guid": "ExmRBg)iA)",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N1"
                     ]
                 },
@@ -5535,7 +5521,6 @@
                     "guid": "vfZn/l%iQT",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N1"
                     ]
                 },
@@ -5844,7 +5829,6 @@
                     "guid": "mL?lshC3U*",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N1"
                     ]
                 },
@@ -6103,7 +6087,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[sound:漠然.mp3]<br><img alt=\"Yoshida\" src=\"漠.gif\"><img alt=\"Yoshida\" src=\"然.gif\">（<span style=\"color: rgb(255, 165, 0);\"><b>たる</b>&nbsp;</span>/&nbsp;<span style=\"color: rgb(255, 165, 0);\"><b>とした</b></span>）",
+                        "[sound:漠然.mp3]<br><img alt=\"Yoshida\" src=\"漠.gif\"><img alt=\"Yoshida\" src=\"然.gif\">（<span style=\"color: rgb(255, 165, 0);\"><b>たる</b>&nbsp;</span>/&nbsp;<span style=\"color: rgb(255, 165, 0);\"><b>とした</b></span>）<b style=\"color: rgb(255, 165, 0);\">とし</b>",
                         "「<b><i>たる ー прилагательное</i></b>」<br>～<span style=\"color: rgb(255, 165, 0);\"><b>たる</b> </span>/ <span style=\"color: rgb(255, 165, 0);\"><b>とした</b></span>・Неясный, смутный, туманный; неопределённый<br><img src=\"paste-6ef7e19f4cb77aeed00e22b76fa55d3473b17810.png\">",
                         "",
                         ""
@@ -9716,7 +9700,6 @@
                     "guid": "u<L*1r?Y^_",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N2"
                     ]
                 },
@@ -10823,7 +10806,6 @@
                     "guid": "CXQm9nds`q",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N2"
                     ]
                 },
@@ -10838,7 +10820,6 @@
                     "guid": "dANPuzttTf",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N2"
                     ]
                 },
@@ -11749,7 +11730,6 @@
                     "guid": "rNB+ozmn^8",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N2"
                     ]
                 },
@@ -12422,7 +12402,6 @@
                     "guid": "Qdpk9Ouk^0",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N2"
                     ]
                 },
@@ -12605,7 +12584,6 @@
                     "guid": "A[#(VPBC)4",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N2"
                     ]
                 },
@@ -12676,7 +12654,6 @@
                     "guid": "sf(`>Tee|U",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N2"
                     ]
                 },
@@ -13405,7 +13382,6 @@
                     "guid": "ggA{Z{>g2%",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N2"
                     ]
                 },
@@ -14071,14 +14047,13 @@
                     "__type__": "Note",
                     "fields": [
                         "[sound:視界.mp3]<br><img src=\"視.gif\"><img src=\"界.gif\">",
-                        "「<b>名詞</b>」<br>・Поле зрения, видимость<br><img src=\"paste-8af2d1f79cdfd45267e20e6124e8690b70fa3937.png\">",
+                        "「<i><b>Существительное</b></i>」<br>・Поле зрения, видимость<br><img src=\"paste-8af2d1f79cdfd45267e20e6124e8690b70fa3937.png\">",
                         "",
                         ""
                     ],
                     "guid": "AeO4ORCGO?",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N2"
                     ]
                 },
@@ -14317,7 +14292,6 @@
                     "guid": "gcI8i}0$X0",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N2"
                     ]
                 },
@@ -14836,7 +14810,6 @@
                     "guid": "A:1=4}avg8",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N2"
                     ]
                 },
@@ -20662,7 +20635,6 @@
                     "guid": "EgzU}l`eql",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -22455,7 +22427,6 @@
                     "guid": "d>k7kbd(nK",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -23422,7 +23393,6 @@
                     "guid": "Grribz)<r~",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -24823,7 +24793,6 @@
                     "guid": "hl&,sG~44>",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -24894,7 +24863,6 @@
                     "guid": "Kdh!qf+WS0",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -24979,7 +24947,6 @@
                     "guid": "ovwCrYywb`",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -25036,7 +25003,6 @@
                     "guid": "sQ(,=;Qg66",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -25135,7 +25101,6 @@
                     "guid": "C`sh5ZXr}Q",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -25248,7 +25213,6 @@
                     "guid": "j_sXtkZ2uZ",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -25347,7 +25311,6 @@
                     "guid": "k9?!)Ns.9D",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -25460,7 +25423,6 @@
                     "guid": "trXL|b,v5j",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -25489,7 +25451,6 @@
                     "guid": "tq2_dU0BE;",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -25714,7 +25675,6 @@
                     "guid": "c?GOj)i#}C",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -25743,7 +25703,6 @@
                     "guid": "J30jW-n1;g",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -26136,7 +26095,6 @@
                     "guid": "rkSeovGY{9",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -26389,7 +26347,6 @@
                     "guid": "tSO$xw|d/N",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -26446,7 +26403,6 @@
                     "guid": "rgFwAJ8n@M",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -26741,7 +26697,6 @@
                     "guid": "qX08H`Uq|8",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -26896,7 +26851,6 @@
                     "guid": "BaB]]MdXP(",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -27037,7 +26991,6 @@
                     "guid": "rbYjFmwX?B",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -27086,7 +27039,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[sound:頂上.mp3]<br><img src=\"頂.gif\"><img src=\"上.gif\"><br><span style=\"color: rgb(170, 170, 127);\"><b>Синонимы - 3</b></span>",
+                        "[sound:頂上.mp3]<br><img src=\"頂.gif\"><img src=\"上.gif\">",
                         "「<i><b>Существительное</b></i>」<br>・Вершина, пик (<i><span style=\"color: rgb(170, 170, 127);\">горы, здания</span></i>)<br>・Высшая точка, апогей (<i><span style=\"color: rgb(170, 170, 127);\">развития, событий</span></i>) (<span style=\"color: rgb(255, 170, 255);\"><i>переносное</i></span>)<br><img src=\"paste-e0033ac473c8c9bc856d7a012cca11268f6dd61d.png\">",
                         "",
                         "・富士山の<span style=\"color: rgb(170, 170, 127);\"><b>頂上</b></span>に登った。ー&nbsp;Поднялся на <b><span style=\"color: rgb(170, 170, 127);\">вершину </span></b>Фудзи."
@@ -27878,7 +27831,6 @@
                     "guid": "BoP&BN-kPW",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -28649,7 +28601,6 @@
                     "guid": "J0C]BMIjJL",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N3"
                     ]
                 },
@@ -33119,7 +33070,6 @@
                     "guid": "s_SsDJht;|",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N4"
                     ]
                 },
@@ -33176,7 +33126,6 @@
                     "guid": "CZ$Ii,_[kg",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N4"
                     ]
                 },
@@ -33567,7 +33516,6 @@
                     "guid": "b{pQE7(MCw",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N4"
                     ]
                 },
@@ -33652,7 +33600,6 @@
                     "guid": "iql?AG8uD@",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N4"
                     ]
                 },
@@ -33695,7 +33642,6 @@
                     "guid": "cJ=bKnNxpL",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N4"
                     ]
                 },
@@ -36368,7 +36314,6 @@
                     "guid": "HIEYKq=M[%",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N4"
                     ]
                 },
@@ -37139,7 +37084,6 @@
                     "guid": "O8TsZS`azl",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N4"
                     ]
                 },
@@ -37224,7 +37168,6 @@
                     "guid": "4|U-DT]-<",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N4"
                     ]
                 },
@@ -37351,7 +37294,6 @@
                     "guid": "N]=Urf+StK",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N4"
                     ]
                 },
@@ -38038,7 +37980,6 @@
                     "guid": "xdZA:e_!G%",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N4"
                     ]
                 },
@@ -40223,7 +40164,6 @@
                     "guid": "E(&FvVGJHq",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N4"
                     ]
                 },
@@ -41946,7 +41886,6 @@
                     "guid": "M;r#{$!L>e",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N4"
                     ]
                 },
@@ -42661,7 +42600,6 @@
                     "guid": "yWr-q6lblc",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N4"
                     ]
                 },
@@ -43166,7 +43104,6 @@
                     "guid": "dfTt?Zhpma",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N4"
                     ]
                 },
@@ -44235,20 +44172,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」<b>と<img src=\"同.gif\">じように</b>",
-                        "「<b>副詞</b>」<br>・Так же, как「<b><i><span style=\"color: rgb(255, 165, 0);\">A</span></i></b>」; Таким же образом, как「<b><i><span style=\"color: rgb(255, 165, 0);\">A</span></i></b>」<br>「<b>とおなじように</b>」",
-                        "",
-                        ""
-                    ],
-                    "guid": "d|HcoN)u6&",
-                    "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
-                    "tags": [
-                        "N4"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "<b>さっきから</b>",
                         "「<b>副詞</b>」<br>・С недавнего времени, уже какое-то время",
                         "",
@@ -44496,6 +44419,7 @@
                 "paste-27ebd4a38fb89b2a447d70594e4f7f68097fcde6.png",
                 "paste-282ce182314839b04f784554fe434f7dba69dd3c.png",
                 "paste-2830997dda2423bfbff429904ca2da41477b24d5.png",
+                "paste-283ebacd5e9a4edeb5fd23bddcbd009943487c2f.png",
                 "paste-2857a06b3e38a9905008d2103f25cddb4d9f951a.png",
                 "paste-289b481cac2b2b04a84f63776a4e74cbd65ce214.png",
                 "paste-2959cb8b26f03eabdfd706b5e7ea29fbbacc7578.png",
@@ -44676,7 +44600,6 @@
                 "paste-5f13005da35c3e2ddfa15310ef1749d577ee130e.png",
                 "paste-5fa2223b37e1bc1bc5219cc0d5070c26f6bef76c.png",
                 "paste-603cc24aaf9dea859100d065de95c7529cee2cfa.png",
-                "paste-609cb4446a1140861444541a780f938cacf85680.png",
                 "paste-60b16ab2a6e240469ca2fd818d44892d98794427.png",
                 "paste-613dbb1f7613153e17ade7c802290ce9e24c45ea.png",
                 "paste-614e7eff0edbc0132803ac9daf08d13e2dcfa9ae.png",
@@ -45321,8 +45244,6 @@
                 "どうぞ.mp3",
                 "どうも.mp3",
                 "どうやって.mp3",
-                "どこ.mp3",
-                "どちら.mp3",
                 "どなた.mp3",
                 "どの.mp3",
                 "どのくらい.mp3",
@@ -45531,7 +45452,6 @@
                 "人参.mp3",
                 "人口.mp3",
                 "今.gif",
-                "今.mp3",
                 "今年.mp3",
                 "今度.mp3",
                 "今日.mp3",
@@ -45649,7 +45569,6 @@
                 "冷.gif",
                 "冷たい.mp3",
                 "冷蔵庫.mp3",
-                "処.gif",
                 "出.gif",
                 "出かける.mp3",
                 "出す.mp3",
@@ -48982,7 +48901,6 @@
                     "guid": "f5xn_>9sA/",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N5"
                     ]
                 },
@@ -50411,7 +50329,6 @@
                     "guid": "l1?D-=DTJ(",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N5"
                     ]
                 },
@@ -51328,7 +51245,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[sound:着く.mp3]<br>【<span style=\"color: rgb(170, 170, 127);\"><b>が</b></span>】<img src=\"着.gif\">（<b><span style=\"color: rgb(255, 170, 0);\">く</span></b>）<br><span style=\"color: rgb(170, 170, 127);\"><b>Синонимы - 2</b></span>",
+                        "[sound:着く.mp3]<br>【<span style=\"color: rgb(170, 170, 127);\"><b>が</b></span>】<img src=\"着.gif\">（<b><span style=\"color: rgb(255, 170, 0);\">く</span></b>）",
                         "「<b><i>Непереходный глагол</i></b>」<br>・Прибывать, приезжать<br>・Занимать (<span style=\"color: rgb(170, 170, 127);\"><i><b>место</b></i></span>)<br><img src=\"着く.png\">",
                         "",
                         "・電車が駅に着いた。ー Поезд прибыл на станцию."
@@ -52524,7 +52441,6 @@
                     "guid": "u+ntEF~]tO",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N5"
                     ]
                 },
@@ -54897,20 +54813,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[sound:今.mp3]<br><img src=\"今.gif\">（<b><span style=\"color: rgb(255, 165, 0);\">の</span></b>）（<b><span style=\"color: rgb(255, 165, 0);\">に</span></b>）（<b><span style=\"color: rgb(255, 165, 0);\">にも</span></b>）（<b><span style=\"color: rgb(255, 165, 0);\">から</span></b>）（<span style=\"color: rgb(255, 165, 0);\"><b>でも</b></span>）",
-                        "「<b><i>Существительное</i></b>」<br>・Сейчас, теперь<br>～<b><span style=\"color: rgb(255, 165, 0);\">の</span></b>・нынешний<br>～<b><span style=\"color: rgb(255, 165, 0);\">に</span></b>・Скоро; рано или поздно<br>～<b><span style=\"color: rgb(255, 165, 0);\">にも</span></b>・Вот-вот<br>～<b><span style=\"color: rgb(255, 165, 0);\">から</span></b>・Отныне, впредь<br>～<span style=\"color: rgb(255, 165, 0);\"><b>でも</b></span>・И сейчас<br>「<b>いま</b>」",
-                        "",
-                        ""
-                    ],
-                    "guid": "JvD$o3}evo",
-                    "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
-                    "tags": [
-                        "N5"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "[sound:お茶.mp3]<b><br>お</b><img src=\"茶.gif\">",
                         "「<b><i>Существительное</i></b>」<br>・Чай (<span style=\"color: rgb(170, 170, 127);\"><i><b>зелёный</b></i></span>)<br><img src=\"paste-53d97e6050ddacaba656027b6855013403530baf.png\">",
                         "",
@@ -54926,7 +54828,7 @@
                     "__type__": "Note",
                     "fields": [
                         "[sound:木.mp3]<br><img src=\"木.gif\">",
-                        "「<i><b>Существительное</b></i>」<br>・Дерево<br>「<b>き</b>」",
+                        "「<i><b>Существительное</b></i>」<br>・Дерево<br><img src=\"paste-283ebacd5e9a4edeb5fd23bddcbd009943487c2f.png\">",
                         "",
                         ""
                     ],
@@ -56297,20 +56199,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[sound:どこ.mp3]<br><img src=\"何.gif\"><img src=\"処.gif\">（<b><span style=\"color: rgb(255, 165, 0);\">で</span>/<span style=\"color: rgb(255, 165, 0);\">に</span></b>）（<b><span style=\"color: rgb(255, 165, 0);\">から</span></b>）（<b><span style=\"color: rgb(255, 165, 0);\">ヘ</span></b>）（<b><span style=\"color: rgb(255, 165, 0);\">でも</span>/<span style=\"color: rgb(255, 165, 0);\">にも</span></b>）（<span style=\"color: rgb(255, 165, 0);\"><b>か</b></span>）",
-                        "「<b><i>Местоимение</i></b>」<br>・Где? Какое место? В каком месте?&nbsp;<br>～<b><span style=\"color: rgb(255, 165, 0);\">で</span>/<span style=\"color: rgb(255, 165, 0);\">に</span><span style=\"color: rgb(255, 255, 255);\">・Где?<br></span></b>～<b><span style=\"color: rgb(255, 165, 0);\">から</span></b>・Откуда?<br>～<b><span style=\"color: rgb(255, 165, 0);\">ヘ</span></b>・Куда?&nbsp;<br>～<b><span style=\"color: rgb(255, 165, 0);\">でも</span>/<span style=\"color: rgb(255, 165, 0);\">にも</span></b>・Повсюду, везде (<b><span style=\"color: rgb(170, 170, 127);\"><i>нигде с отр.</i></span></b>)<br>～<span style=\"color: rgb(255, 165, 0);\"><b>か</b></span>・Где-то<br>「<b>どこ</b>」",
-                        "",
-                        ""
-                    ],
-                    "guid": "CDl~Y<~z/r",
-                    "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
-                    "tags": [
-                        "N5"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "[sound:どの.mp3]<br><b>どの？</b>",
                         "「<b><i>Местоименеи</i></b>」<br>・Который; какой (<span style=\"color: rgb(170, 170, 127);\"><i><b>способ</b></i></span>)<br><img src=\"paste-12181c1068f3af735a183cd5560eaf4ee34f26d8.png\">",
                         "",
@@ -56639,20 +56527,6 @@
                         ""
                     ],
                     "guid": "kDzHf=h6Z(",
-                    "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
-                    "tags": [
-                        "N5"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "[sound:どちら.mp3]<br><b>どちら</b>（<span style=\"color: rgb(255, 165, 0);\"><b>に</b></span>）（<b><span style=\"color: rgb(255, 165, 0);\">から</span></b>）（<b><span style=\"color: rgb(255, 165, 0);\">へ</span></b>）（<b><span style=\"color: rgb(255, 165, 0);\">か</span></b>）（<b><span style=\"color: rgb(255, 165, 0);\">でも</span></b>）",
-                        "「<b><i>Местоимение</i></b>」<br>～<b><span style=\"color: rgb(255, 165, 0);\">に</span></b>・Где?<br>～<b><span style=\"color: rgb(255, 165, 0);\">から</span></b>・Откуда?&nbsp;<br>～<b><span style=\"color: rgb(255, 165, 0);\">へ</span></b>・Куда?<br><br>・Который (<b><span style=\"color: rgb(170, 170, 127);\"><i>из двух</i></span></b>)<br>～<b><span style=\"color: rgb(255, 165, 0);\">か</span></b>・Что-нибудь&nbsp;(<b><span style=\"color: rgb(170, 170, 127);\"><i>из двух</i></span></b>)<br>～<b><span style=\"color: rgb(255, 165, 0);\">でも</span></b>・Оба<br><br>・Кто (<span style=\"color: rgb(170, 170, 127);\"><i><b>обращение слуги к посетителю</b></i></span>)<br><img src=\"paste-609cb4446a1140861444541a780f938cacf85680.png\">",
-                        "",
-                        ""
-                    ],
-                    "guid": "HQ|<z1Y5,3",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
                         "N5"
@@ -58489,7 +58363,6 @@
                     "guid": "AVsz]{md?(",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N5"
                     ]
                 },
@@ -59526,7 +59399,6 @@
                     "guid": "c@HST|}J#`",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
-                        "leech",
                         "N5"
                     ]
                 },
@@ -61518,6 +61390,8 @@
                 "いいか.mp3",
                 "いかがですか.mp3",
                 "いっぱい.mp3",
+                "いっぱいにする.mp3",
+                "いっぱいになる.mp3",
                 "いろんな.mp3",
                 "おっす.mp3",
                 "お下がり.mp3",
@@ -63003,9 +62877,7 @@
                     ],
                     "guid": "pJL-Ud!u-a",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
-                    "tags": [
-                        "leech"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
@@ -63431,7 +63303,7 @@
                     "__type__": "Note",
                     "fields": [
                         "[sound:温かい.mp3]<br><img src=\"温.gif\"><b>か</b>（<b><span style=\"color: rgb(255, 165, 0);\">い</span></b>）",
-                        "<span style=\"color: rgb(255, 255, 255);\">「<i><b>い ー прилагательное</b></i>」<br></span>・Тёплый, согревающий. (<i><span style=\"color: rgb(170, 170, 127);\">Используется для описания температуры чего-либо, что можно ощутить при прикосновении</span></i>)<br>・Сердечный, душевный, тёплый (<span style=\"color: rgb(170, 170, 127);\"><i>об отношениях, атмосфере, характере</i></span>)<span style=\"color: rgb(255, 255, 255);\"><br></span><img src=\"paste-50e7500c0bc84d8a5bb7dcd63d8ec1c6cea8d988.png\">",
+                        "<span style=\"color: rgb(255, 255, 255);\">「<i><b>い ー прилагательное</b></i>」<br></span>・Тёплый, согревающий<br>・Сердечный, душевный, тёплый (<span style=\"color: rgb(170, 170, 127);\"><i>об отношениях, атмосфере, характере</i></span>)<span style=\"color: rgb(255, 255, 255);\"><br></span><img src=\"paste-50e7500c0bc84d8a5bb7dcd63d8ec1c6cea8d988.png\">",
                         "",
                         ""
                     ],
@@ -66655,9 +66527,7 @@
                     ],
                     "guid": "PJ9rA};]9.",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
-                    "tags": [
-                        "leech"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
@@ -67581,9 +67451,7 @@
                     ],
                     "guid": "QEe/WXZ&WU",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
-                    "tags": [
-                        "leech"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
@@ -67643,9 +67511,7 @@
                     ],
                     "guid": "K=i-DS-F-W",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
-                    "tags": [
-                        "leech"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
@@ -67777,9 +67643,7 @@
                     ],
                     "guid": "nP)1:Y^@#r",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
-                    "tags": [
-                        "leech"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
@@ -67815,9 +67679,7 @@
                     ],
                     "guid": "NKVFC-c^LW",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
-                    "tags": [
-                        "leech"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
@@ -68153,9 +68015,7 @@
                     ],
                     "guid": "M|B+VEEfdt",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
-                    "tags": [
-                        "leech"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
@@ -68359,9 +68219,7 @@
                     ],
                     "guid": "Gwz;!D)t#`",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
-                    "tags": [
-                        "leech"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
@@ -68481,9 +68339,7 @@
                     ],
                     "guid": "iy[/+?<#rH",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
-                    "tags": [
-                        "leech"
-                    ]
+                    "tags": []
                 },
                 {
                     "__type__": "Note",
@@ -68992,7 +68848,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>いっぱい（<span style=\"color: rgb(255, 165, 0);\">にする</span>）</b>",
+                        "[sound:いっぱいにする.mp3]<b><br>いっぱい（<span style=\"color: rgb(255, 165, 0);\">にする</span>）</b>",
                         "「<i><b>Выражение</b></i>」<br>・Наполнять до краёв, полностью заполнить<br>・Наполнить чем-либо<br>（<b>いっぱいにする</b>）",
                         "",
                         ""
@@ -69004,7 +68860,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<br>【<span style=\"color: rgb(170, 170, 127);\"><b>が</b></span>】<b>いっぱい</b>（<b><span style=\"color: rgb(255, 165, 0);\">になる</span></b>）",
+                        "[sound:いっぱいになる.mp3]<br>【<span style=\"color: rgb(170, 170, 127);\"><b>が</b></span>】<b>いっぱい</b>（<b><span style=\"color: rgb(255, 165, 0);\">になる</span></b>）",
                         "「<i><b>Выражение</b></i>」<br>・Наполняться, стать полным<br>・Переполниться чувствами, эмоциями (<span style=\"color: rgb(170, 170, 127);\"><i>в перен. смысле</i></span>)<br>（<b>いっぱいになる</b>）",
                         "",
                         ""
@@ -69072,27 +68928,27 @@
                 0.66095567
             ],
             "fsrsParams6": [
-                0.16401549,
-                1.800474,
-                5.78169,
-                15.619273,
-                6.6549363,
-                0.939156,
-                3.174265,
-                0.0010022013,
-                1.4518843,
-                0.36358574,
-                0.42800343,
-                1.585954,
-                0.04333367,
-                0.41426885,
-                1.4314084,
-                0.29241183,
-                1.7215205,
-                0.7232294,
-                0.007387599,
-                0.076592445,
-                0.13311215
+                0.96419,
+                5.6785226,
+                19.470207,
+                55.619423,
+                6.4828835,
+                0.7594623,
+                3.0038896,
+                0.028003104,
+                1.7956681,
+                0.24475868,
+                0.7206731,
+                1.5325032,
+                0.06060744,
+                0.32634676,
+                1.6956842,
+                0.6022197,
+                1.8729,
+                0.59637976,
+                0.10812255,
+                0.06306033,
+                0.18784055
             ],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "1970-01-01",
@@ -69123,10 +68979,10 @@
                 "order": 1,
                 "perDay": 0
             },
-            "newGatherPriority": 4,
+            "newGatherPriority": 2,
             "newMix": 1,
             "newPerDayMinimum": 0,
-            "newSortOrder": 1,
+            "newSortOrder": 0,
             "questionAction": 0,
             "replayq": true,
             "rev": {
@@ -69137,7 +68993,7 @@
                 "maxIvl": 36500,
                 "perDay": 9999
             },
-            "reviewOrder": 11,
+            "reviewOrder": 4,
             "secondsToShowAnswer": 0.0,
             "secondsToShowQuestion": 0.0,
             "sm2Retention": 0.9,
@@ -69150,7 +69006,7 @@
     "desc": "",
     "desiredRetention": 90,
     "dyn": 0,
-    "extendNew": 10,
+    "extendNew": 30,
     "extendRev": 0,
     "media_files": [
         "paste-00a29f2a93a6549c7d681805dafacf1bb65243a9.png",
@@ -69910,7 +69766,7 @@
         "鼻血.mp3"
     ],
     "name": "Words",
-    "newLimit": 0,
+    "newLimit": 20,
     "newLimitToday": null,
     "note_models": [
         {
@@ -69930,7 +69786,7 @@
                     "preventDeletion": false,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false,
+                    "sticky": true,
                     "tag": null
                 },
                 {
@@ -70034,9 +69890,7 @@
             ],
             "guid": "CxO_[IE|%l",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
-            "tags": [
-                "leech"
-            ]
+            "tags": []
         },
         {
             "__type__": "Note",
@@ -70264,9 +70118,7 @@
             ],
             "guid": "yjEGh[WZ?K",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
-            "tags": [
-                "leech"
-            ]
+            "tags": []
         },
         {
             "__type__": "Note",
@@ -72648,7 +72500,7 @@
             "__type__": "Note",
             "fields": [
                 "[sound:統治.mp3]<br><img src=\"統.gif\"><img src=\"治.gif\">（<b><span style=\"color: rgb(255, 165, 0);\">する</span></b>）",
-                "「<b><i>する ー глагол</i></b>」<br>・Правление, управление (государством, территорией)<br>～<span style=\"color: rgb(255, 165, 0);\"><b>する</b></span>・Править, управлять<br><img src=\"paste-fd8779c7311b9817776d45b4a43c36ce5027fbfb.png\">",
+                "「<i><b>する ー глагол</b></i>」<br>・Правление, управление (<span style=\"color: rgb(170, 170, 127);\"><i>государством, территорией</i></span>)<br>～<span style=\"color: rgb(255, 165, 0);\"><b>する</b></span>・Править, управлять<br><img src=\"paste-fd8779c7311b9817776d45b4a43c36ce5027fbfb.png\">",
                 "",
                 ""
             ],
@@ -72671,7 +72523,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "[sound:うろつく.mp3]<b><br>うろつ</b>（<span style=\"color: rgb(255, 165, 0);\"><b>く</b></span>）",
+                "[sound:うろつく.mp3]<br>【<span style=\"color: rgb(170, 170, 127);\"><b>が</b></span>】<b>うろつ</b>（<b><span style=\"color: rgb(255, 165, 0);\">く</span></b>）",
                 "「<i><b>Непереходный глагол</b></i>」<br>・Бродить, шататься без цели<br><img src=\"paste-48bffd62bdfd0c5ca8a320d4a412cc902142697e.png\">",
                 "",
                 ""
@@ -72792,7 +72644,7 @@
             "__type__": "Note",
             "fields": [
                 "[sound:不可能.mp3]<br><img src=\"不.gif\"><img src=\"可.gif\"><img src=\"能.gif\">（<b><span style=\"color: rgb(255, 165, 0);\">な</span></b>）\n",
-                "「<b><i>な ー прилагательное</i></b>」<br>～<span style=\"color: rgb(255, 165, 0);\"><b>な</b></span>・Невозможный,&nbsp;<br><img src=\"paste-00f183b2d6d32e2b9959c30e0a4a379d81e73c1a.png\">",
+                "「<b><i>な ー прилагательное</i></b>」<br>～<span style=\"color: rgb(255, 165, 0);\"><b>な</b></span>・Невозможный&nbsp;<br><img src=\"paste-00f183b2d6d32e2b9959c30e0a4a379d81e73c1a.png\">",
                 "",
                 ""
             ],
@@ -72840,7 +72692,7 @@
             "__type__": "Note",
             "fields": [
                 "[sound:寄生虫.mp3]<br><img src=\"寄.gif\"><img src=\"生.gif\"><img src=\"虫.gif\">",
-                "「<i><b>Существительное</b></i>」<br>・Паразить (<span style=\"color: rgb(170, 170, 127);\"><i>в биологии</i></span>)<br><img src=\"paste-3de978489eca78274b4b7e069d866019128a8a18.png\">",
+                "「<i><b>Существительное</b></i>」<br>・Паразит (<span style=\"color: rgb(170, 170, 127);\"><i>в биологии</i></span>)<br><img src=\"paste-3de978489eca78274b4b7e069d866019128a8a18.png\">",
                 "",
                 ""
             ],
