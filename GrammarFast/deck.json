@@ -43,27 +43,27 @@
                 0.66095567
             ],
             "fsrsParams6": [
-                0.16401549,
-                1.800474,
-                5.78169,
-                15.619273,
-                6.6549363,
-                0.939156,
-                3.174265,
-                0.0010022013,
-                1.4518843,
-                0.36358574,
-                0.42800343,
-                1.585954,
-                0.04333367,
-                0.41426885,
-                1.4314084,
-                0.29241183,
-                1.7215205,
-                0.7232294,
-                0.007387599,
-                0.076592445,
-                0.13311215
+                0.7340638,
+                5.1085606,
+                19.670235,
+                62.026627,
+                6.421119,
+                0.77482474,
+                3.0155923,
+                0.025322888,
+                1.8125888,
+                0.23531017,
+                0.7397627,
+                1.52002,
+                0.04717888,
+                0.3230859,
+                1.6876402,
+                0.61210984,
+                1.8729,
+                0.6069454,
+                0.08960108,
+                0.05216995,
+                0.14089721
             ],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "1970-01-01",
@@ -94,10 +94,10 @@
                 "order": 1,
                 "perDay": 0
             },
-            "newGatherPriority": 4,
+            "newGatherPriority": 2,
             "newMix": 1,
             "newPerDayMinimum": 0,
-            "newSortOrder": 1,
+            "newSortOrder": 0,
             "questionAction": 0,
             "replayq": true,
             "rev": {
@@ -108,7 +108,7 @@
                 "maxIvl": 36500,
                 "perDay": 9999
             },
-            "reviewOrder": 11,
+            "reviewOrder": 4,
             "secondsToShowAnswer": 0.0,
             "secondsToShowQuestion": 0.0,
             "sm2Retention": 0.9,
@@ -174,6 +174,7 @@
         "ということだ.mp3",
         "ところが.mp3",
         "として.mp3",
+        "と思う.mp3",
         "なかなか 〜ない.mp3",
         "なかなか.mp3",
         "によると.mp3",
@@ -185,7 +186,7 @@
         "型.mp3"
     ],
     "name": "GrammarFast",
-    "newLimit": 20,
+    "newLimit": 0,
     "newLimitToday": null,
     "note_models": [
         {
@@ -205,7 +206,7 @@
                     "preventDeletion": false,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false,
+                    "sticky": true,
                     "tag": null
                 },
                 {
@@ -302,7 +303,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "[sound:のに.mp3]<br>（<b><span style=\"color: rgb(170, 170, 127);\">る</span></b>）<b>～</b><b>のに～</b>",
+                "[sound:のに.mp3]<br><b>～</b>（<b><span style=\"color: rgb(170, 170, 127);\">る</span></b>）<b>のに～</b>",
                 "・Для того, чтобы「<b style=\"color: rgb(255, 165, 0);\"><i>A</i></b>」, 「<b style=\"color: rgb(255, 165, 0);\"><i>B</i></b>」",
                 "",
                 ""
@@ -329,7 +330,7 @@
                 "[sound:合う.mp3]<br>（~~<b><span style=\"color: rgb(170, 170, 127);\">ます</span></b>~~）<b>～合う</b>",
                 "・Делать「<b style=\"color: rgb(255, 165, 0);\"><i>A</i></b>」взаимно друг для друга",
                 "",
-                ""
+                "手を取り<span style=\"color: rgb(170, 170, 127);\"><b>合って</b></span>歩く。ー　Идти, <span style=\"color: rgb(170, 170, 127);\">держась за руки друг с другом</span>."
             ],
             "guid": "K26.YQdUdb",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -400,10 +401,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "[sound:として.mp3]<b><br></b><b>～</b><b>として～<br></b><b>～としての～</b>",
+                "[sound:として.mp3]<b><br></b><b>～</b><b>として～<br></b><b>～として<span style=\"color: rgb(170, 170, 127);\">の</span>～</b>",
                 "・В качестве (<span style=\"color: rgb(170, 170, 127);\"><b><i>как</i></b></span>)「<span style=\"color: rgb(255, 165, 0);\"><b><i>A</i></b></span>」<br>・「<span style=\"color: rgb(255, 165, 0);\"><b><i>B</i></b></span>」 функционирует в качестве (<span style=\"color: rgb(170, 170, 127);\"><i><b>как</b></i></span>)「<span style=\"color: rgb(255, 165, 0);\"><b><i>A</i></b></span>」",
                 "",
-                ""
+                "彼は先生<b><span style=\"color: rgb(170, 170, 127);\">として</span></b>学生たちに尊敬されている。ー　Он уважаем студентами <b><span style=\"color: rgb(170, 170, 127);\"><em>как учитель</em></span></b>.<br><br>彼女を友人<span style=\"color: rgb(170, 170, 127);\"><b>として</b></span>信じています。ー　Я доверяю ей <b><span style=\"color: rgb(170, 170, 127);\"><em>как другу</em></span></b>."
             ],
             "guid": "zCNR>$v</S",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -559,7 +560,7 @@
                 "<b>～</b><b><span style=\"color: rgb(170, 170, 127);\">る</span></b><b>予定<br>～の予定</b>",
                 "・Планировать「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
-                ""
+                "明日映画を見に行<span style=\"color: rgb(255, 170, 255);\">く</span><b><span style=\"color: rgb(170, 170, 127);\">予定</span></b>です。ー　Завтра <span style=\"color: rgb(170, 170, 127);\"><b>планирую </b></span>пойти смотреть фильм."
             ],
             "guid": "NMRF]-/r_M",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -631,7 +632,7 @@
                 "<b>～かい</b>",
                 "・Используется в неформальной рече, показывает грубость говорящего и требует после ответ да или нет",
                 "",
-                ""
+                "君は彼のことを知っている<span style=\"color: rgb(170, 170, 127);\"><b>かい</b></span>？ー Ты знаешь его?"
             ],
             "guid": "J!,_F>u/fV",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -1000,6 +1001,18 @@
         {
             "__type__": "Note",
             "fields": [
+                "「<b><span style=\"color: rgb(255, 165, 0);\"><i>A</i></span></b>」<b>ぜ</b>",
+                "「<b><i>Заключительная частица</i></b>」<br>・Давай! Слушай! (<span style=\"color: rgb(170, 170, 127);\"><i><b>как приказ. Имеет грубый, мужской, неформальный оттеной</b></i></span>)",
+                "",
+                ""
+            ],
+            "guid": "F<L_,CuU8o",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
                 "<b>～<span style=\"color: rgb(170, 170, 127);\">ては</span>いけない<br>～<span style=\"color: rgb(170, 170, 127);\">ては</span>ならない<br>～<span style=\"color: rgb(170, 170, 127);\">ては</span>ダメ</b>",
                 "・Нельзя「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」<br>・Запрещено「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "<img src=\"paste-6a73d48ed66c3b25f2aa866f6f12e640f0020804.png\">",
@@ -1051,7 +1064,7 @@
                 "<b>～<span style=\"color: rgb(170, 170, 127);\">ている</span>ところだ</b>",
                 "・Действие「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」происходит прямо сейчас",
                 "",
-                ""
+                "彼はちょうど出かけ<span style=\"color: rgb(170, 170, 127);\"><b>ているところだよ</b></span>。ー　Он как раз <em>вышел из дома.</em>"
             ],
             "guid": "FJ-38`W.&w",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -1135,7 +1148,7 @@
                 "<b>～<span style=\"color: rgb(170, 170, 127);\">る</span>ように祈る<br></b><b>～<span style=\"color: rgb(170, 170, 127);\">ない</span>ように祈る</b>",
                 "・Я молюсь, чтобы「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」<br>・Я молюсь, чтобы не「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
-                "みんなが幸せにな<b><span style=\"color: rgb(170, 170, 127);\">る</span><span style=\"color: rgb(255, 165, 0);\">ように祈る</span></b>。ー Я<span style=\"color: rgb(255, 165, 0);\"> <b>молюсь</b>, <b>чтобы</b></span> все были счастливы.<br>病気が悪化し<b><span style=\"color: rgb(170, 170, 127);\">ない</span><span style=\"color: rgb(255, 165, 0);\">ように祈る</span></b>。ー　Я <span style=\"color: rgb(255, 165, 0);\"><b>молюсь</b>, <b>чтобы</b> </span>болезнь <span style=\"color: rgb(255, 165, 0);\"><b>не</b></span> ухудшилась."
+                "みんなが幸せにな<span style=\"color: rgb(255, 170, 255);\">る</span><span style=\"color: rgb(170, 170, 127);\"><b>ように祈る</b></span>。ー Я<span style=\"color: rgb(255, 165, 0);\"> </span><span style=\"color: rgb(170, 170, 127);\"><b>молюсь</b>, <b>чтобы</b></span> все были счастливы.<br>病気が悪化し<span style=\"color: rgb(255, 170, 255);\">ない</span><span style=\"color: rgb(170, 170, 127);\"><b>ように祈る</b></span>。ー　Я <span style=\"color: rgb(170, 170, 127);\"><b>молюсь</b>, <b>чтобы</b></span><span style=\"color: rgb(255, 165, 0);\"> </span>болезнь <span style=\"color: rgb(255, 170, 255);\">не</span> ухудшилась."
             ],
             "guid": "sp7uT(AIXV",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -1195,7 +1208,7 @@
                 "<b>～（~~<span style=\"color: rgb(170, 170, 127);\">ます</span>~~）にくい<br></b><b>～（~~<span style=\"color: rgb(170, 170, 127);\">ます</span>~~）づらい<br></b><b>～（~~<span style=\"color: rgb(170, 170, 127);\">ます</span>~~）がたい</b>",
                 "・Трудно выполнить「<b><span style=\"color: rgb(255, 165, 0);\"><i>A</i></span></b>」(<span style=\"color: rgb(170, 170, 127);\"><i><b>Акцент на внешние факторы</b></i></span>)<br>・Трудно выполнить「<b><span style=\"color: rgb(255, 165, 0);\"><i>A</i></span></b>」(<span style=\"color: rgb(170, 170, 127);\"><i><b>Акцент на внутренних психологических или эмоциональных причинах</b></i></span>)<br>・Трудно выполнить「<b><span style=\"color: rgb(255, 165, 0);\"><i>A</i></span></b>」(<span style=\"color: rgb(170, 170, 127);\"><i><b>Акцент на том, что действие чрезвычайно трудно или невозможно совершить</b></i></span>)",
                 "",
-                "この本は字が小さくて、<span style=\"color: rgb(255, 165, 0);\"><b>読みにくい</b></span>。ー　Эту книгу <span style=\"color: rgb(255, 165, 0);\"><b>трудно читать</b></span>, потому что шрифт маленький.　(<span style=\"color: rgb(170, 170, 127);\"><i>Проблема в книге.</i></span>)<br>彼に本当のことを<span style=\"color: rgb(255, 165, 0);\"><b>話しづらい</b></span>。ー　Мне <span style=\"color: rgb(255, 165, 0);\"><b>тяжело говорить</b></span> ему правду. (<i><span style=\"color: rgb(170, 170, 127);\">Эмоциональная трудность.</span></i>)<br><span style=\"color: rgb(255, 165, 0);\"><b>信じがたい</b></span>話だ。ー　Это история, в которую <b>почти <span style=\"color: rgb(255, 165, 0);\">невозможно поверить</span></b>."
+                "この本は字が小さくて、<span style=\"color: rgb(255, 255, 255);\">読み</span><span style=\"color: rgb(170, 170, 127);\"><b>にくい</b></span>。ー　Эту книгу <span style=\"color: rgb(170, 170, 127);\"><b>трудно читать</b></span>, потому что шрифт маленький. (<span style=\"color: rgb(255, 170, 255);\"><i>Проблема в книге</i></span>)<br>彼に本当のことを<span style=\"color: rgb(255, 255, 255);\">話し</span><span style=\"color: rgb(170, 170, 127);\"><b>づらい</b></span>。ー　Мне <span style=\"color: rgb(170, 170, 127);\"><b>тяжело говорить</b></span> ему правду. (<span style=\"color: rgb(255, 170, 255);\"><i>Эмоциональная трудность</i></span>)<br><span style=\"color: rgb(255, 255, 255);\">信じ</span><span style=\"color: rgb(170, 170, 127);\"><b>がたい</b></span>話だ。ー　Это история, в которую <b>почти <span style=\"color: rgb(170, 170, 127);\">невозможно поверить</span></b>."
             ],
             "guid": "mLu(<W|Eb<",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -1233,7 +1246,7 @@
                 "<b>～（~~<span style=\"color: rgb(170, 170, 127);\">ます</span>~~）やすい</b>",
                 "・Легко сделать「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
-                "この本は字が大きくて、とても<span style=\"color: rgb(255, 165, 0);\"><b>読みやすい</b></span>。ー　Эту книгу очень<b> <span style=\"color: rgb(255, 165, 0);\">легко читать</span></b>, потому что шрифт большой."
+                "この本は字が大きくて、とても<span style=\"color: rgb(170, 170, 127);\"><b>読みやすい</b></span>。ー　Эту книгу очень<b> <span style=\"color: rgb(170, 170, 127);\">легко читать</span></b>, потому что шрифт большой."
             ],
             "guid": "bW^hgN1^/v",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -1554,7 +1567,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>～と思う<br>～<span style=\"color: rgb(170, 170, 127);\">だ</span>と思う</b>",
+                "[sound:と思う.mp3]<b><br>～と思う<br>～<span style=\"color: rgb(170, 170, 127);\">だ</span>と思う</b>",
                 "・Думаю, что「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
                 "明日は雨が降る<b><span style=\"color: rgb(255, 165, 0);\">と思う</span></b>。ー　<span style=\"color: rgb(255, 165, 0);\"><b>Я думаю</b></span>, завтра пойдет дождь."
