@@ -15,11 +15,11 @@
             "easyDaysPercentages": [
                 1.0,
                 1.0,
-                0.5,
                 1.0,
-                0.5,
-                0.0,
-                0.5
+                1.0,
+                1.0,
+                1.0,
+                1.0
             ],
             "fsrsParams5": [
                 0.22729543,
@@ -43,27 +43,27 @@
                 0.66095567
             ],
             "fsrsParams6": [
-                0.7340638,
-                5.1085606,
-                19.670235,
-                62.026627,
-                6.421119,
-                0.77482474,
-                3.0155923,
-                0.025322888,
-                1.8125888,
-                0.23531017,
-                0.7397627,
-                1.52002,
-                0.04717888,
-                0.3230859,
-                1.6876402,
-                0.61210984,
+                0.6494641,
+                4.461863,
+                17.026806,
+                53.282505,
+                6.4585457,
+                0.70200866,
+                3.069528,
+                0.059984438,
+                1.8457773,
+                0.21239671,
+                0.7767643,
+                1.4879788,
+                0.06390546,
+                0.29001313,
+                1.6675253,
+                0.6132385,
                 1.8729,
-                0.6069454,
-                0.08960108,
-                0.05216995,
-                0.14089721
+                0.67707324,
+                0.17018801,
+                0.080672204,
+                0.13287415
             ],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "1970-01-01",
@@ -169,11 +169,13 @@
         "ことはない.mp3",
         "すると.mp3",
         "それでは.mp3",
+        "ついに～.mp3",
         "てしまう.mp3",
         "である.mp3",
         "ということだ.mp3",
         "ところが.mp3",
         "として.mp3",
+        "とても～ない.mp3",
         "と思う.mp3",
         "なかなか 〜ない.mp3",
         "なかなか.mp3",
@@ -183,7 +185,22 @@
         "また.mp3",
         "まったく～ない.mp3",
         "合う.mp3",
-        "型.mp3"
+        "型.mp3",
+        "気味.mp3",
+        "～おきに.mp3",
+        "～から ～まで.mp3",
+        "～ことから.mp3",
+        "～ことだ.mp3",
+        "～だけ.mp3",
+        "～だって.mp3",
+        "～でしょう.mp3",
+        "～でも.mp3",
+        "～というのは事実だ.mp3",
+        "～どころか、～.mp3",
+        "～につれて、～.mp3",
+        "～に違いない.mp3",
+        "～は言うまでもない.mp3",
+        "～までなら.mp3"
     ],
     "name": "GrammarFast",
     "newLimit": 0,
@@ -668,7 +685,7 @@
                 "<b>～ても</b>",
                 "・Даже если「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
-                "お金がなく<b><span style=\"color: rgb(255, 165, 0);\">ても</span></b>、幸せです。ー　<span style=\"color: rgb(255, 165, 0);\"><b>Даже если</b></span> у меня нет денег, я счастлив."
+                "お金がなく<span style=\"color: rgb(170, 170, 127);\"><b>ても</b></span>、幸せです。ー　<span style=\"color: rgb(170, 170, 127);\"><b>Даже если</b></span> у меня нет денег, я счастлив."
             ],
             "guid": "i8bAH+#1tG",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -836,7 +853,7 @@
                 "<b>～しか～ない</b>",
                 "・Делать только「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
-                "彼女は漫画<span style=\"color: rgb(255, 165, 0);\"><b>しか</b></span>読み<b><span style=\"color: rgb(255, 165, 0);\">ません</span></b>。ー　Она читает <span style=\"color: rgb(255, 165, 0);\"><b>только</b> </span>мангу."
+                "彼女は漫画<span style=\"color: rgb(170, 170, 127);\"><b>しか</b></span>読み<span style=\"color: rgb(170, 170, 127);\"><b>ません</b></span>。ー　Она читает <span style=\"color: rgb(170, 170, 127);\"><b>только</b></span><span style=\"color: rgb(255, 165, 0);\"> </span>мангу."
             ],
             "guid": "HsLAwRK/m0",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -872,7 +889,7 @@
                 "<b>～は少なくない</b>",
                 "・Довольно много「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
-                "日本語を勉強している外国人<span style=\"color: rgb(255, 165, 0);\"><b>は少なくない</b></span>。ー　Иностранцев, изучающих японский, <b><span style=\"color: rgb(255, 165, 0);\">немало</span>.</b>"
+                "日本語を勉強している外国人<span style=\"color: rgb(170, 170, 127);\"><b>は少なくない</b></span>。ー　Иностранцев, изучающих японский, <b><span style=\"color: rgb(170, 170, 127);\">немало</span>.</b>"
             ],
             "guid": "MJ3BiD!Z!;",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -1229,7 +1246,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>～でも</b>",
+                "[sound:～でも.mp3]<b><br>～でも</b>",
                 "・Например, или типа того (<span style=\"color: rgb(170, 170, 127);\"><i>Ч</i><i>тобы предложить что-то не как окончательное решение, а как один из вариантов</i></span>)<br>・-угодно (<span style=\"color: rgb(170, 170, 127);\"><i>с вопросительными словами создаёт значение \"любой\", \"каждый\"</i></span>)",
                 "",
                 "<b>お茶<span style=\"color: rgb(170, 170, 127);\">でも</span></b>飲みに行きましょうか。ー　Не пойти ли нам <b>на чай&nbsp;</b>? (<span style=\"color: rgb(170, 170, 127);\"><i>или что-то типа того</i></span>)<br>誰<span style=\"color: rgb(170, 170, 127);\"><b>でも</b></span>いい。ー　<span style=\"color: rgb(170, 170, 127);\"><b>Кто угодно</b> </span>подойдет."
@@ -1954,7 +1971,7 @@
                 "<b>～まで（<span style=\"color: rgb(170, 170, 127);\">も</span>）</b>",
                 "・Даже「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "<span style=\"color: rgb(170, 170, 127);\"><b>も</b></span> ー усиливает акцент на значение \"даже\"",
-                "彼は私の名前<span style=\"color: rgb(255, 165, 0);\"><b>までも</b></span>忘れてしまった。ー　Он забыл <span style=\"color: rgb(255, 165, 0);\"><b>даже </b></span>моё имя. (<span style=\"color: rgb(170, 170, 127);\">Выражает разочарование и удивление тем, что дело зашло так далеко.</span>)"
+                "彼は私の名前<span style=\"color: rgb(170, 170, 127);\"><b>までも</b></span>忘れてしまった。ー　Он забыл <b><span style=\"color: rgb(170, 170, 127);\">даже</span><span style=\"color: rgb(255, 165, 0);\"> </span></b>моё имя."
             ],
             "guid": "p%+mIs-uIa",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -2196,7 +2213,7 @@
                 "<div><b>到頭～</b></div>",
                 "・В конце концов, наконец-то",
                 "",
-                "<b><span style=\"color: rgb(255, 165, 0);\">到頭</span></b>、試験に合格した。ー　<span style=\"color: rgb(255, 165, 0);\"><b>В конце концов</b></span>, я сдал экзамен."
+                "<span style=\"color: rgb(170, 170, 127);\"><b>到頭</b></span>、試験に合格した。ー　<span style=\"color: rgb(170, 170, 127);\"><b>В конце концов</b></span>, я сдал экзамен."
             ],
             "guid": "x`c5$hedJ-",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -2364,7 +2381,7 @@
                 "<b>大体～</b>",
                 "・В основном, приблизительно, примерно, в целом",
                 "",
-                "会議は<b><span style=\"color: rgb(255, 165, 0);\">大体</span></b>1時間くらいかかる。ー　Заседание займёт <span style=\"color: rgb(255, 165, 0);\"><b>примерно</b></span> 1 час."
+                "会議は<span style=\"color: rgb(170, 170, 127);\"><b>大体</b></span>1時間くらいかかる。ー　Заседание займёт <span style=\"color: rgb(170, 170, 127);\"><b>примерно</b> </span>1 час."
             ],
             "guid": "vLO,OmVDsc",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -2553,7 +2570,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>ついに～</b>",
+                "[sound:ついに～.mp3]<b><br>ついに～</b>",
                 "・Наконец-то「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」<br>・В конце концов「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "В отличие от <b><span style=\"color: rgb(170, 170, 127);\">とうとう</span></b> более книжное.",
                 "<div>長い戦いが<b><span style=\"color: rgb(255, 165, 0);\">ついに</span></b>終わった。ー　Долгая битва <span style=\"color: rgb(255, 165, 0);\"><b>наконец </b></span>закончилась.</div><div>彼は<span style=\"color: rgb(255, 165, 0);\"><b>ついに</b></span>来なかった。ー　Он <b><span style=\"color: rgb(255, 165, 0);\">так и</span></b> не пришёл.<br></div>"
@@ -2665,10 +2682,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>～<span style=\"color: rgb(170, 170, 127);\">る</span>につれて、～<br></b><b>～につれて、～</b>",
+                "[sound:～につれて、～.mp3]<b><br>～<span style=\"color: rgb(170, 170, 127);\">る</span>につれて、～<br></b><b>～につれて、～</b>",
                 "・По мере того, как「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」<br>・Чем больше「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」, тем",
                 "",
-                "日本語が上手になる<b><span style=\"color: rgb(255, 165, 0);\">につれて</span></b>、話すのが楽しくなった。ー　<span style=\"color: rgb(255, 165, 0);\"><b>Чем лучше</b></span> я становился в японском, тем веселее было разговаривать."
+                "日本語が上手になる<b><span style=\"color: rgb(170, 170, 127);\">につれて</span></b>、話すのが楽しくなった。ー　<span style=\"color: rgb(170, 170, 127);\"><b>Чем лучше </b></span>я становился в японском, тем веселее было разговаривать."
             ],
             "guid": "d8S,=CzlFN",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -3313,7 +3330,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>～<span style=\"color: rgb(170, 170, 127);\">る</span>だけ<br>～<span style=\"color: rgb(170, 170, 127);\">な</span>だけ<br>～だけ</b>",
+                "[sound:～だけ.mp3]<b><br>～<span style=\"color: rgb(170, 170, 127);\">る</span>だけ<br>～<span style=\"color: rgb(170, 170, 127);\">な</span>だけ<br>～だけ</b>",
                 "・Только「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」<br>・Лишь「<i style=\"color: rgb(255, 165, 0);\"><b>A</b></i>」",
                 "・Нейтральное, нестрогое",
                 "一人<span style=\"color: rgb(255, 165, 0);\"><strong>だけ</strong></span>来た。ー　Пришёл <b><span style=\"color: rgb(255, 165, 0);\">только </span></b>один человек."
@@ -3349,7 +3366,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<div><b>～でしょう</b></div>",
+                "<div>[sound:～でしょう.mp3]<b><br></b></div><div><b>～でしょう</b></div>",
                 "・Предположение, догадка<br>・Вежливое утверждение<br>・Ожидание согласия",
                 "",
                 "明日は雨が降る<span style=\"color: rgb(255, 165, 0);\"><b>でしょう</b></span>。ー　Наверное, завтра будет дождь.<br>これは大事なこと<span style=\"color: rgb(255, 165, 0);\"><strong>でしょう</strong></span>。ー　Это важная вещь, наверное<br>いい天気<span style=\"color: rgb(255, 165, 0);\"><strong>でしょう</strong></span>？ー　Хорошая погода, не правда ли?"
@@ -3361,7 +3378,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<div><b>～から ～まで&nbsp;</b></div>",
+                "<div>[sound:～から ～まで.mp3]</div><div><b>～から ～まで&nbsp;</b></div>",
                 "・С「<b><span style=\"color: rgb(255, 165, 0);\"><i>A</i></span></b>」до「<span style=\"color: rgb(255, 165, 0);\"><i><b>B</b></i></span>」<br>・От「<b><span style=\"color: rgb(255, 165, 0);\"><i>A</i></span></b>」до「<span style=\"color: rgb(255, 165, 0);\"><i><b>B</b></i></span>」",
                 "",
                 "9時<b><span style=\"color: rgb(255, 165, 0);\">から</span></b>5時<b><span style=\"color: rgb(255, 165, 0);\">まで</span></b>働きます。ー　Работаю <b><span style=\"color: rgb(255, 165, 0);\">с </span></b>9 <b><span style=\"color: rgb(255, 165, 0);\">до</span></b> 5.<br>家<b><span style=\"color: rgb(255, 165, 0);\">から</span></b>学校<b><span style=\"color: rgb(255, 165, 0);\">まで</span></b>歩きます。ー　Иду пешком <b><span style=\"color: rgb(255, 165, 0);\">от</span></b> дома <span style=\"color: rgb(255, 165, 0);\"><b>до</b></span> школы."
@@ -3388,7 +3405,7 @@
                 "<b>～が、～<br>～<span style=\"color: rgb(170, 170, 127);\">だ</span>が、～</b>",
                 "・「<b><span style=\"color: rgb(255, 165, 0);\"><i>A</i></span></b>」, но「<span style=\"color: rgb(255, 165, 0);\"><i><b>B</b></i></span>」<br>・「<b><span style=\"color: rgb(255, 165, 0);\"><i>A</i></span></b>」, однако「<span style=\"color: rgb(255, 165, 0);\"><i><b>B</b></i></span>」",
                 "",
-                "この本は面白い<span style=\"color: rgb(255, 165, 0);\"><b>が</b></span>、長すぎる。ー　Эта книга интересная, <strong>но</strong> слишком длинная."
+                "この本は面白い<span style=\"color: rgb(170, 170, 127);\"><b>が</b></span>、長すぎる。ー　Эта книга интересная, <span style=\"color: rgb(170, 170, 127);\"><strong>но</strong></span> слишком длинная."
             ],
             "guid": "f9%FQt9|gX",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -3448,7 +3465,7 @@
                 "<div><b>～をもらう</b></div>",
                 "・Говорящий получает что-то от кого-то",
                 "",
-                "先生から手紙<span style=\"color: rgb(255, 165, 0);\"><b>をもらった</b></span>。ー　Я получил письмо от учителя."
+                "先生から手紙<span style=\"color: rgb(255, 170, 255);\">を</span><b><span style=\"color: rgb(170, 170, 127);\">もらった</span></b>。ー　Я <b><span style=\"color: rgb(170, 170, 127);\">получил</span></b> письмо <span style=\"color: rgb(170, 170, 127);\"><b>от</b></span> учителя."
             ],
             "guid": "cQCPT^(JzC",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -3544,7 +3561,7 @@
                 "<b>～<span style=\"color: rgb(170, 170, 127);\">る</span>つもりだった<br></b><b>～<span style=\"color: rgb(170, 170, 127);\">ない</span>つもりだった</b>",
                 "・Намеревался / собирался сделать「<i><span style=\"color: rgb(255, 165, 0);\"><b>A</b></span></i>」 (<span style=\"color: rgb(170, 170, 127);\"><i>но не сделал / событие в прошлом</i></span>)",
                 "",
-                "夏休みに旅行する<span style=\"color: rgb(255, 165, 0);\"><strong>つもりだった</strong></span>が、雨で行けなかった。ー　Я собирался поехать в отпуск летом, но из-за дождя не смог.　"
+                "夏休みに旅行<span style=\"color: rgb(255, 170, 255);\">する</span><b><span style=\"color: rgb(170, 170, 127);\">つもりだった</span></b>が、雨で行けなかった。ー　Я <span style=\"color: rgb(170, 170, 127);\"><b>собирался</b></span> поехать в отпуск летом, но из-за дождя не смог.　"
             ],
             "guid": "Mw<n=C&5qh",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -3613,7 +3630,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>～<span style=\"color: rgb(170, 170, 127);\">る</span>ことだ</b>",
+                "[sound:～ことだ.mp3]<b><br>～<span style=\"color: rgb(170, 170, 127);\">る</span>ことだ</b>",
                 "・Следует сделать「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」<br>・Нужно сделать「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "Используется для выражения мягкого совета, рекомендации.",
                 "早く寝<strong><span style=\"color: rgb(170, 170, 127);\">る</span><span style=\"color: rgb(255, 165, 0);\">ことだ</span></strong>。ー　Тебе следует лечь пораньше."
@@ -3711,7 +3728,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>～おきに</b>",
+                "[sound:～おきに.mp3]<b><br>～おきに</b>",
                 "・Через каждые「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」<br>・Каждый「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "<span style=\"color: rgb(170, 170, 127);\"><i>Строгие и равные интервалы</i></span>",
                 "授業は1時間<b><span style=\"color: rgb(255, 165, 0);\">おきに</span></b>休みがあります。ー　В классе есть перерывы через <span style=\"color: rgb(255, 165, 0);\"><b>каждый</b></span> час."
@@ -3899,7 +3916,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>～ことから<br>～<span style=\"color: rgb(170, 170, 127);\">な</span>ことから<br>～<span style=\"color: rgb(170, 170, 127);\">の</span>ことから</b>",
+                "[sound:～ことから.mp3]<b><br>～ことから<br>～<span style=\"color: rgb(170, 170, 127);\">な</span>ことから<br>～<span style=\"color: rgb(170, 170, 127);\">の</span>ことから</b>",
                 "・Из-за того, что「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」<br>・По причине того, что「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
                 "道が滑りやすい<b><span style=\"color: rgb(170, 170, 127);\">ことから</span></b>、事故が多い。ー　<span style=\"color: rgb(170, 170, 127);\"><b>Так как</b></span> дорога скользкая, здесь много аварий."
@@ -3923,7 +3940,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>～に違いない</b>",
+                "[sound:～に違いない.mp3]<b><br>～に違いない</b>",
                 "・Нет сомнений, что「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」<br>・Должно быть「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
                 "彼は成功する<span style=\"color: rgb(170, 170, 127);\"><strong>に違いない</strong></span>。ー　Он <b><span style=\"color: rgb(170, 170, 127);\">непременно </span></b>добьётся успеха."
@@ -3963,7 +3980,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>とても～ない</b>",
+                "[sound:とても～ない.mp3]<b><br>とても～ない</b>",
                 "・Совсем не「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」<br>・Никак не「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
                 "この問題は難しくて、私には<b><span style=\"color: rgb(170, 170, 127);\">とても</span></b>解け<b><span style=\"color: rgb(170, 170, 127);\">ない</span></b>。ー　Эта задача такая сложная, что я её <span style=\"color: rgb(170, 170, 127);\"><b>никак не</b></span> решу."
@@ -4075,7 +4092,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>～<span style=\"color: rgb(170, 170, 127);\">ということ</span>は<ruby>言</ruby>うまでもない<br>～は<ruby>言</ruby>うまでもない</b>",
+                "[sound:～は言うまでもない.mp3]<b><br>～<span style=\"color: rgb(170, 170, 127);\">ということ</span>は<ruby>言</ruby>うまでもない<br>～は<ruby>言</ruby>うまでもない</b>",
                 "・「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」- само собой разумеется<br>・Нет необходимости говорить, что「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
                 "彼が努力した<strong><span style=\"color: rgb(255, 170, 255);\">ということ</span><span style=\"color: rgb(170, 170, 127);\">は言うまでもない</span></strong>。ー　<span style=\"color: rgb(170, 170, 127);\">Само собой разумеется, что</span> он приложил усилия."
@@ -4289,7 +4306,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>～だって</b>",
+                "[sound:～だって.mp3]<b><br>～だって</b>",
                 "・Даже「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」<br>・Тоже ведь「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
                 "子ども<b><span style=\"color: rgb(170, 170, 127);\">だって</span></b>分かるよ。ー　<span style=\"color: rgb(170, 170, 127);\"><b>Даже</b></span> ребёнок поймёт."
@@ -4387,7 +4404,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>～（<span style=\"color: rgb(170, 170, 127);\">という</span>）のは事実だ</b>",
+                "[sound:～というのは事実だ.mp3]<b><br>～（<span style=\"color: rgb(170, 170, 127);\">という</span>）のは事実だ</b>",
                 "・То, что 「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」- это факт<br>・Действительное верное, что「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "<span style=\"color: rgb(170, 170, 127);\"><b>という</b></span> может опускаться в более коротких формах",
                 "日本の人口が減っている<span style=\"color: rgb(170, 170, 127);\"><b>のは事実だ</b></span>。ー&nbsp;Это факт, что население Японии сокращается."
@@ -4441,7 +4458,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>～までなら</b>",
+                "[sound:～までなら.mp3]<b><br>～までなら</b>",
                 "・Если речь только о「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」<br>・Пока это в пределах「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
                 "・千円<span style=\"color: rgb(170, 170, 127);\"><b>までなら</b></span>払えます。ー&nbsp;До тысячи иен я могу заплатить."
@@ -4797,7 +4814,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>～（~~<span style=\"color: rgb(170, 170, 127);\">ます</span>~~）気味</b>",
+                "[sound:気味.mp3]<b><br>～（~~<span style=\"color: rgb(170, 170, 127);\">ます</span>~~）気味</b>",
                 "・Немного「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」<br>・Чуть-чуть「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」<br>・Похоже, что「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」",
                 "",
                 "最近太り<b><span style=\"color: rgb(170, 170, 127);\">気味</span></b>です。ー　В последнее время <span style=\"color: rgb(170, 170, 127);\"><b>немного </b></span>поправилась."
@@ -4825,7 +4842,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>～どころか、～<br></b><b>～<span style=\"color: rgb(170, 170, 127);\">な</span>どころか、～</b>",
+                "[sound:～どころか、～.mp3]<b><br>～どころか、～<br></b><b>～<span style=\"color: rgb(170, 170, 127);\">な</span>どころか、～</b>",
                 "・Не то что「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」, а наоборот「<span style=\"color: rgb(255, 170, 0);\"><i><b>B</b></i></span>」",
                 "",
                 "彼は英語<span style=\"color: rgb(170, 170, 127);\"><b>どころか</b></span>、日本語も話せない。ー　<b><span style=\"color: rgb(170, 170, 127);\">Какой там</span></b> английский — он даже по-японски не говорит."
