@@ -31647,7 +31647,7 @@
                     "__type__": "Note",
                     "fields": [
                         "[sound:運送.mp3]<br><img src=\"運.gif\"><img src=\"送.gif\">（<span style=\"color: rgb(255, 170, 0);\"><b>する</b></span>）",
-                        "「<b><i>する ー глагол</i></b>」<br>・Перевозка, транспортировка<br>～<span style=\"color: rgb(170, 170, 127);\"><b>する</b></span>・Перевозить, доставлять<br><img src=\"paste-8d61ddfea206308925864deb4adc704a3149be6b.png\">",
+                        "「<b><i>する ー глагол</i></b>」<br>・Перевозка, транспортировка<br>～<span style=\"color: rgb(255, 170, 0);\"><b>する</b></span>・Перевозить, доставлять<br><img src=\"paste-8d61ddfea206308925864deb4adc704a3149be6b.png\">",
                         "",
                         "荷物の<b><span style=\"color: rgb(170, 170, 127);\">運送</span></b>を依頼した。ー　Я заказал <span style=\"color: rgb(170, 170, 127);\"><b>перевозку</b></span> груза"
                     ],
@@ -69914,27 +69914,27 @@
                 0.66095567
             ],
             "fsrsParams6": [
-                0.6494641,
-                4.461863,
-                17.026806,
-                53.282505,
-                6.4585457,
-                0.70200866,
-                3.069528,
-                0.059984438,
-                1.8457773,
-                0.21239671,
-                0.7767643,
-                1.4879788,
-                0.06390546,
-                0.29001313,
-                1.6675253,
-                0.6132385,
+                0.72140366,
+                4.6028867,
+                16.685305,
+                49.977917,
+                6.4273305,
+                0.78025895,
+                3.0120623,
+                0.039764423,
+                1.8848311,
+                0.21957766,
+                0.81824386,
+                1.5341854,
+                0.06365838,
+                0.33625492,
+                1.7222852,
+                0.62423986,
                 1.8729,
-                0.67707324,
-                0.17018801,
-                0.080672204,
-                0.13287415
+                0.68250537,
+                0.1564723,
+                0.08196969,
+                0.15445213
             ],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "1970-01-01",
@@ -69997,6 +69997,7 @@
     "media_files": [
         "paste-00a29f2a93a6549c7d681805dafacf1bb65243a9.png",
         "paste-00f183b2d6d32e2b9959c30e0a4a379d81e73c1a.png",
+        "paste-0145001b9aeac705fe2421d2f551a8e9a8b26ada.png",
         "paste-015124596c6ad8e3a2a0cc3472b3668702d5fadf.png",
         "paste-036ddfebb90ff15b447660b297b7a1eed6ccb0e1.png",
         "paste-03e00b7e65858a9b6f99b161379ee5d202a3c87c.png",
@@ -70031,12 +70032,14 @@
         "paste-1e002d344a8bcb6384967d8fe0b66fd9a58c1bec.png",
         "paste-1e42ce14657e8850e25afb2e998464ed9393b7e1.png",
         "paste-205ea6fd07afd923cd20f954a07f4bb9755da9fa.png",
+        "paste-20d825035e7eb678ca7dada1bcdfd811001c250f.png",
         "paste-247edd092e4dcbe4d868150310afe3813c54af9f.png",
         "paste-253adcbc1182284383d849f9a78fef5347cbf61e.png",
         "paste-254a32a6fe223d1031e0560d42a827ef2a879889.png",
         "paste-25dedc382aa79dc9b12a40ead656929fbad7107e.png",
         "paste-265e9125fe1e3a391a8e9631a6d1db51c09d888e.png",
         "paste-2731ede792e9c20dac9b1b8f4311301cc84657ac.png",
+        "paste-27e6b0bdcb57f2cda96ef8efb12900f819c3bff9.png",
         "paste-2805f93dc063e95ff4fb63c64ff8286143f3cfb3.png",
         "paste-281beba4d3a6289ce063037cc62c917e777259b2.png",
         "paste-2929770813e78ea05a75f84df8c0594f4a8d0921.png",
@@ -70096,6 +70099,7 @@
         "paste-5dd959681b73f8e9f6563101a703ff8cb8b1f308.png",
         "paste-600e1a14507501f3feca5e81889bad6550bf62f6.png",
         "paste-60f4cfc233adb8a3b6b40a62f261a8293bdeaf03.png",
+        "paste-6130bbfe4c478d21819d117b92cc0d466c91962d.png",
         "paste-61c191e65fc30cf0b143977ea2e13fae108f5fb8.png",
         "paste-62a80afca6cf2551f7012386f93b0b5a53f332ba.png",
         "paste-632d64d0e897f668bde77428f185ebab9a841e66.png",
@@ -70113,9 +70117,12 @@
         "paste-7465a3848bff70b63321864a97f24edcb10672af.png",
         "paste-74ac6ce4193aa5c628a8cd644782a0edac0f8cdf.png",
         "paste-753d614ede2f52fd305ba13830dfeaaf44c05da8.png",
+        "paste-754e1cc686171234d332f68f388d7f58d9e41ed9.png",
         "paste-7567bf6b6357a7f8b1f2acc927274d0e3424b69a.png",
         "paste-7829970acd9f5290549c85d2de0a5b89db4cd945.png",
+        "paste-7be1796d1cee061a8ed5040622f201176089f344.png",
         "paste-7c6598fc71703080d774c9f2c801b9e8fd22afda.png",
+        "paste-7ce76357211886480a05261b269a57be85c28c44.png",
         "paste-7f37d90b232b70f0237e3f7eee843f6a04272890.png",
         "paste-7f94739fbbe73c212efa792493eca94aa2345482.png",
         "paste-82b83e799c61028424d0e0e9a9b50764d6c4770f.png",
@@ -70127,6 +70134,7 @@
         "paste-88d447167cc3a9aec52b81fc3fb13ff661c7c692.png",
         "paste-89837014d9864e3cff6c56e2a20662d80c11d002.png",
         "paste-89d09fd1e32e5a580c9c6a12234ea7a12ee368be.png",
+        "paste-8e8384d2e7884902c26c068f6695173b99b0454f.png",
         "paste-8f3c17b95c889663edf131ba45a3761d5012f25a.png",
         "paste-910a4d30ed7325b26ea3bbb7743b878ad464da2b.png",
         "paste-913552396963dc1b3fbbf34b0b04840a8aef4094.png",
@@ -70135,10 +70143,12 @@
         "paste-99296554b4f0df4d5f0e431477cd7f8dac05c044.png",
         "paste-99299d8befaf5b213d4a4146900fa7b3c6e1268f.png",
         "paste-9bff6fef171a71f549659711887f03d20c6abe05.png",
+        "paste-9c371ff7ea061f1152ebc9e35260272670d3fbf9.png",
         "paste-9de98dc10eba5a5848d8bca986b0fd7f89cc915e.png",
         "paste-9fa66760a5a40227f63ac99016b0629c0e6bb992.png",
         "paste-9fe84462cb2c792bdb723b06fb6972eec4c8a8b3.png",
         "paste-a09cedc3ef45e193fe0ddf3e3102571bc86b940a.png",
+        "paste-a1d377ac5522cbf3f1c3d83939e262d662f4af37.png",
         "paste-a29b4401f89f30ed6c320d4347383b61f624d870.png",
         "paste-a40761819a1e34c524f5b87984f42ac47e7029a6.png",
         "paste-a4551e7b3ed2edfa352a9e0f13bce3ecddefe34d.png",
@@ -70154,12 +70164,12 @@
         "paste-af0dc916ddd07e857a69ee553256b9e09e18f89c.png",
         "paste-b26816e250a738f1dde7771f6cacae63e7512a86.png",
         "paste-b2ae9d5d8d2ce4e5a2cd0139a0462a4bbc28e228.png",
+        "paste-b2dc2a64556efdad7e57c4ddcfc081a89dd3d81d.png",
         "paste-b30f117c4bc7007e08d029c652f71ff6e58f0226.png",
         "paste-b336edafd082fb5738bac0e3d3c29172469e658c.png",
         "paste-b3c93a96451ef873ee99127bb95e83a9e61ce9e6.png",
         "paste-b6754e86111cbcc0f51222aabdcf16c9822e9411.png",
         "paste-b71c3986abb6a3cddee44f31d41d152bef4b1f69.png",
-        "paste-b88377954f254457d99886d31593b828fbc3ad3e.png",
         "paste-baf1b036af1859ce13054afba38032a9854faf46.png",
         "paste-bc68e4c3623b5049b7e415a05d5cf37d14c7f8ad.png",
         "paste-bc70ccdd1f8ea5567de7cbc2f8ea021cb539a7a9.png",
@@ -70183,6 +70193,7 @@
         "paste-cc016a36319837c839f205cdc1bcbe4ea830ed82.png",
         "paste-cd803064979a4a3f97507a569092b7ec755894ba.png",
         "paste-cde9e2bea444fe3b7ab52b25eff45c037ba1bde8.png",
+        "paste-cf96f47aa69754a04c121a8c614b65dbad3d3cbd.png",
         "paste-d0335311bfb0fdb9a15337f3110f48ab4b8f74f6.png",
         "paste-d0e8309b991add80947c8291da084c841701652a.png",
         "paste-d1b79896644e0e0b7a77c6787028c1e37eaf7892.png",
@@ -70226,6 +70237,7 @@
         "paste-f498c37cd3a63187416ad74e2e468d6c7ebdd423.png",
         "paste-f57e53d425a46613d4bf938b9240bc3d1c2f05b5.png",
         "paste-f94c1a7fd5324b9f76e13af94a00e265d9fcfc4b.png",
+        "paste-fa090e6810e28d41eb6ed0bcf4617390c2a0bc0b.png",
         "paste-fd8779c7311b9817776d45b4a43c36ce5027fbfb.png",
         "paste-fd882aaafd576868938a900631de0f05017e1867.png",
         "paste-ff6c23026eab28cc590cd0a7439cf16dd03bb7ad.png",
@@ -70315,8 +70327,6 @@
         "不可能.mp3",
         "両.gif",
         "両手.mp3",
-        "中.gif",
-        "中央処理装置.mp3",
         "事.gif",
         "事件.mp3",
         "交.gif",
@@ -70340,6 +70350,7 @@
         "個室.mp3",
         "傷.gif",
         "傷跡.mp3",
+        "働.gif",
         "像.gif",
         "億.gif",
         "億.mp3",
@@ -70353,19 +70364,25 @@
         "先発.mp3",
         "光.gif",
         "光熱費.mp3",
+        "入.gif",
+        "入力.mp3",
         "内.gif",
         "再.gif",
         "再読み込み.mp3",
         "冷.gif",
         "冷却ファン.mp3",
         "処.gif",
+        "処刑.mp3",
         "出.gif",
         "分.gif",
         "切.gif",
+        "刑.gif",
         "初.gif",
         "初心者.mp3",
         "利.gif",
         "力.gif",
+        "労.gif",
+        "労働者.mp3",
         "動.gif",
         "動き.mp3",
         "勝.gif",
@@ -70410,9 +70427,9 @@
         "大.gif",
         "大切にする.mp3",
         "大地.mp3",
+        "大昔.mp3",
         "天.gif",
         "天体.mp3",
-        "央.gif",
         "奥.gif",
         "奥様.mp3",
         "奪.gif",
@@ -70432,6 +70449,8 @@
         "害虫.mp3",
         "寄.gif",
         "寄生虫.mp3",
+        "寝.gif",
+        "寝ぼける.mp3",
         "対.gif",
         "対応.mp3",
         "導.gif",
@@ -70450,6 +70469,8 @@
         "広.gif",
         "広がる.mp3",
         "広げる.mp3",
+        "廃.gif",
+        "廃棄.mp3",
         "建.gif",
         "建設機械.mp3",
         "建設者.mp3",
@@ -70464,6 +70485,7 @@
         "復活.mp3",
         "心.gif",
         "忘.gif",
+        "忘却.mp3",
         "応.gif",
         "応答.mp3",
         "念.gif",
@@ -70485,6 +70507,8 @@
         "意.gif",
         "憂.gif",
         "憂さ.mp3",
+        "成.gif",
+        "成長期.mp3",
         "戸.gif",
         "戻.gif",
         "戻す.mp3",
@@ -70519,6 +70543,7 @@
         "方.gif",
         "日.gif",
         "明.gif",
+        "昔.gif",
         "星.gif",
         "映.gif",
         "映像.mp3",
@@ -70534,6 +70559,7 @@
         "月明かり.mp3",
         "朝.gif",
         "朝日.mp3",
+        "期.gif",
         "末.gif",
         "本.gif",
         "本当は.mp3",
@@ -70543,6 +70569,8 @@
         "染.gif",
         "染色体.mp3",
         "械.gif",
+        "棄.gif",
+        "植.gif",
         "業.gif",
         "楽.gif",
         "様.gif",
@@ -70551,9 +70579,12 @@
         "次回.mp3",
         "正.gif",
         "正義.mp3",
+        "正面に.mp3",
         "歯.gif",
         "歯.mp3",
         "歴.gif",
+        "死.gif",
+        "死ぬ気で.mp3",
         "残.gif",
         "残念なこと.mp3",
         "殴.gif",
@@ -70575,6 +70606,7 @@
         "源.gif",
         "漏.gif",
         "漏らす.mp3",
+        "潰.gif",
         "灯.gif",
         "炎.gif",
         "炎.mp3",
@@ -70593,6 +70625,7 @@
         "理.gif",
         "生.gif",
         "生存者.mp3",
+        "生白い.mp3",
         "用.gif",
         "由.gif",
         "申.gif",
@@ -70604,6 +70637,7 @@
         "疲.gif",
         "療.gif",
         "発.gif",
+        "白.gif",
         "的.gif",
         "皆.gif",
         "皆様.mp3",
@@ -70616,7 +70650,12 @@
         "知覚.mp3",
         "示.gif",
         "礼.gif",
+        "科.gif",
+        "科学者.mp3",
+        "移.gif",
+        "移植.mp3",
         "積.gif",
+        "積み荷.mp3",
         "積む.mp3",
         "穏.gif",
         "穏やか.mp3",
@@ -70629,6 +70668,8 @@
         "答.gif",
         "管.gif",
         "管理.mp3",
+        "紛.gif",
+        "紛れる.mp3",
         "素.gif",
         "給.gif",
         "統.gif",
@@ -70639,10 +70680,11 @@
         "繋がる.mp3",
         "罪.gif",
         "罪.mp3",
-        "置.gif",
         "義.gif",
         "考.gif",
         "者.gif",
+        "肝.gif",
+        "肝をつぶす.mp3",
         "育.gif",
         "育つ.mp3",
         "胆.gif",
@@ -70658,6 +70700,7 @@
         "色.gif",
         "苦.gif",
         "苦しむ.mp3",
+        "荷.gif",
         "萌.gif",
         "萌え.mp3",
         "落.gif",
@@ -70671,7 +70714,6 @@
         "衛星.mp3",
         "表.gif",
         "表示.mp3",
-        "装.gif",
         "製.gif",
         "製.mp3",
         "要.gif",
@@ -70690,6 +70732,8 @@
         "語.gif",
         "読.gif",
         "貴.gif",
+        "買.gif",
+        "買い手.mp3",
         "費.gif",
         "質.gif",
         "赤.gif",
@@ -70708,12 +70752,15 @@
         "追う.mp3",
         "通.gif",
         "通用.mp3",
+        "運.gif",
+        "運び手.mp3",
         "道.gif",
         "遠.gif",
         "遺.gif",
         "遺伝子型.mp3",
         "釣.gif",
         "録.gif",
+        "長.gif",
         "開.gif",
         "開発.mp3",
         "間.gif",
@@ -70725,6 +70772,7 @@
         "集.gif",
         "集落.mp3",
         "雑.gif",
+        "雑品.mp3",
         "電.gif",
         "電気屋.mp3",
         "電源ユニット.mp3",
@@ -70733,6 +70781,7 @@
         "露骨.mp3",
         "非.gif",
         "非常に.mp3",
+        "面.gif",
         "音.gif",
         "音がする.mp3",
         "頑.gif",
@@ -70773,7 +70822,7 @@
                     "preventDeletion": false,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true,
+                    "sticky": false,
                     "tag": null
                 },
                 {
@@ -71351,7 +71400,7 @@
             "__type__": "Note",
             "fields": [
                 "[sound:露骨.mp3]<br><img src=\"露.gif\"><img src=\"骨.gif\">（<span style=\"color: rgb(255, 165, 0);\"><b>な</b></span>）",
-                "「<i><b>な ー существительное</b></i>」<br>・Откровенный, открытый, бросабщийся в глаза<br>・Грубый, резкий<br><img src=\"paste-2e6eda5a3e09489f314bbc7c972b63a6c82a8f27.png\">",
+                "「<b><i>な ー существительное</i></b>」<br>～<span style=\"color: rgb(255, 170, 0);\"><b>な</b></span>・Откровенный, открытый, бросающийся в глаза<br>　　・Грубый, резкий<br><img src=\"paste-2e6eda5a3e09489f314bbc7c972b63a6c82a8f27.png\">",
                 "",
                 ""
             ],
@@ -71434,7 +71483,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"雑.gif\"><img src=\"品.gif\">",
+                "[sound:雑品.mp3]<br><img src=\"雑.gif\"><img src=\"品.gif\">",
                 "「<i><b>Существительное</b></i>」<br>・Разные вещи, всякая всячина<br><img src=\"paste-341dde89060f17c2355adc6e55dba93ee7ff0353.png\">",
                 "",
                 ""
@@ -71510,7 +71559,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "sound:忘却.mp3]<br><img src=\"忘.gif\"><img src=\"却.gif\">（<span style=\"color: rgb(255, 165, 0);\"><b>する</b></span>）",
+                "[sound:忘却.mp3]<br><img src=\"忘.gif\"><img src=\"却.gif\">（<span style=\"color: rgb(255, 165, 0);\"><b>する</b></span>）",
                 "「<b><i>する ー глагол</i></b>」<br>・Забвение, забывание<br>～<span style=\"color: rgb(255, 165, 0);\"><b>する</b></span>・Забывать<br><img src=\"paste-1310d0610afb91bee8ff9fd4d999b3749c248303.png\">",
                 "",
                 ""
@@ -71558,18 +71607,6 @@
                 ""
             ],
             "guid": "Bu[^>NnS2:",
-            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "fields": [
-                "[sound:中央処理装置.mp3]<br><img src=\"中.gif\"><img src=\"央.gif\"><img src=\"処.gif\"><img src=\"理.gif\"><img src=\"装.gif\"><img src=\"置.gif\">\n",
-                "「<i><b>Существительное</b></i>」<br>・ЦПУ<br><img src=\"paste-b88377954f254457d99886d31593b828fbc3ad3e.png\">",
-                "",
-                ""
-            ],
-            "guid": "Dp557(jvha",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
             "tags": []
         },
@@ -73076,7 +73113,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "[sound:さっぱりした.mp3]<b><br>さっぱり</b>（<span style=\"color: rgb(255, 165, 0);\"><b>した</b></span>）",
+                "[sound:さっぱりした.mp3]<b><br>さっぱり</b><span style=\"color: rgb(255, 165, 0);\"><b>した</b></span>",
                 "「<i><b>Прилагательное</b></i>」<br>・Откровенный, прямой (<span style=\"color: rgb(170, 170, 127);\"><i>о характере</i></span>)<br><img src=\"paste-f498c37cd3a63187416ad74e2e468d6c7ebdd423.png\">",
                 "",
                 ""
@@ -73968,6 +74005,210 @@
                 "囚人は<b><span style=\"color: rgb(170, 170, 127);\">牢獄</span></b>に入れられた。ー　Узника посадили в <span style=\"color: rgb(170, 170, 127);\"><b>темницу</b></span>."
             ],
             "guid": "I^u,v$`H^f",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:紛れる.mp3]<br>【<span style=\"color: rgb(170, 170, 127);\"><b>が</b></span>】<img src=\"紛.gif\">（<b><span style=\"color: rgb(255, 165, 0);\">れる</span></b>）",
+                "「<i><b>Непереходный глагол</b></i>」<br>・Раствориться среди чего-либо, смешаться, стать незаметным в толпе<br>・Отвлечься, заглушить чувства<br><img src=\"paste-6130bbfe4c478d21819d117b92cc0d466c91962d.png\">",
+                "",
+                "仕事に<b><span style=\"color: rgb(170, 170, 127);\">紛れて</span></b>悲しみを忘れた。ー　В работе я <span style=\"color: rgb(170, 170, 127);\"><b>заглушил</b></span> свою печаль."
+            ],
+            "guid": "q(h=H_%LIr",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:労働者.mp3]<br><img src=\"労.gif\"><img src=\"働.gif\"><img src=\"者.gif\">\n",
+                "「<i><b>Существительное</b></i>」<br>・Рабочий, трудящийся<br><img src=\"paste-cf96f47aa69754a04c121a8c614b65dbad3d3cbd.png\">",
+                "",
+                "<b><span style=\"color: rgb(170, 170, 127);\">労働者</span></b>の権利を守ることは大切だ。ー　Важно защищать права <span style=\"color: rgb(170, 170, 127);\"><b>трудящихся</b></span>."
+            ],
+            "guid": "o@K|sJK9a@",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:正面に.mp3]<br><img src=\"正.gif\"><img src=\"面.gif\"><b>に</b>\n",
+                "「<b><i>Наречие</i></b>」<br>・Прямо перед「<b><span style=\"color: rgb(255, 170, 0);\"><i>A</i></span></b>」<br>・Лицом к「<b><span style=\"color: rgb(255, 170, 0);\"><i>A</i></span></b>」<br>（<b>しょうめんに</b>）",
+                "",
+                ""
+            ],
+            "guid": "p9_H*#mMCV",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:処刑.mp3]<br><img src=\"処.gif\"><img src=\"刑.gif\">（<span style=\"color: rgb(255, 170, 0);\"><b>する</b></span>）",
+                "「<b><i>する ー глагол</i></b>」<br>・Казнь<br>～<span style=\"color: rgb(255, 170, 0);\"><b>する</b></span>・Казнить<br><img src=\"paste-7be1796d1cee061a8ed5040622f201176089f344.png\">",
+                "",
+                "彼は裏切り者として<b><span style=\"color: rgb(170, 170, 127);\">処刑</span></b>された。ー　Его <span style=\"color: rgb(170, 170, 127);\"><b>казнили</b></span> как предателя."
+            ],
+            "guid": "z_O`^}fk;2",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:入力.mp3]<br><img src=\"入.gif\"><img src=\"力.gif\">（<span style=\"color: rgb(255, 170, 0);\"><b>する</b></span>）\n",
+                "「<b><i>する ー глагол</i></b>」<br>・Ввод данных, подача информации<br>～<span style=\"color: rgb(255, 170, 0);\"><b>する</b></span>・Вводить, печатать<br><img src=\"paste-a1d377ac5522cbf3f1c3d83939e262d662f4af37.png\">",
+                "",
+                "パスワードを<b><span style=\"color: rgb(170, 170, 127);\">入力</span></b>してください。ー　Пожалуйста, <span style=\"color: rgb(170, 170, 127);\"><b>введите </b></span>пароль."
+            ],
+            "guid": "G@3y$=]fzy",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:移植.mp3]<br><img src=\"移.gif\"><img src=\"植.gif\">（<span style=\"color: rgb(255, 170, 0);\"><b>する</b></span>）\n",
+                "「<b><i>する ー глагол</i></b>」<br>・Пересадка (<span style=\"color: rgb(170, 170, 127);\"><i>органов, тканей, растений</i></span>)<br>～<span style=\"color: rgb(255, 170, 0);\"><b>する</b></span>・Переносить<br><img src=\"paste-b2dc2a64556efdad7e57c4ddcfc081a89dd3d81d.png\">",
+                "",
+                "心臓の<b><span style=\"color: rgb(170, 170, 127);\">移植</span></b>手術が行われた。ー　Была проведена операция по <span style=\"color: rgb(170, 170, 127);\"><b>пересадке</b></span> сердца."
+            ],
+            "guid": "CDp<?k1M6I",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:寝ぼける.mp3]<br>【<span style=\"color: rgb(170, 170, 127);\"><b>が</b></span>】<img src=\"寝.gif\"><b>ぼ</b>（<b><span style=\"color: rgb(255, 170, 0);\">ける</span></b>）\n",
+                "「<i><b>Непереходный глагол</b></i>」<br>・Быть сонным и спутанным<br><img src=\"paste-7ce76357211886480a05261b269a57be85c28c44.png\">",
+                "",
+                "<span style=\"color: rgb(170, 170, 127);\"><b>寝ぼけて</b></span>変なことを言ってしまった。ー　Я, <span style=\"color: rgb(170, 170, 127);\"><b>будучи в полусне</b></span>, сказал какую-то ерунду."
+            ],
+            "guid": "mizctfcw}S",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:肝をつぶす.mp3]<br>【<span style=\"color: rgb(170, 170, 127);\"><b>を</b></span>】<img src=\"肝.gif\"><b>を<img src=\"潰.gif\">（<b><span style=\"color: rgb(255, 165, 0);\">す</span></b>）\n</b>",
+                "「<i><b>Идиома</b></i>」<br>・Сильно испугаться, \"чуть не умер от страха\"<br>（<b>きもをつぶす</b>）",
+                "",
+                "車が急に飛び出してきて<b><span style=\"color: rgb(170, 170, 127);\">肝をつぶした</span></b>。ー　Машина резко выехала — я <span style=\"color: rgb(170, 170, 127);\"><b>чуть не умер от страха</b></span>."
+            ],
+            "guid": "Lj3W,Krf_Y",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:廃棄.mp3]<br><img src=\"廃.gif\"><img src=\"棄.gif\">（<span style=\"color: rgb(255, 170, 0);\"><b>する</b></span>）\n",
+                "「<b><i>する ー глагол</i></b>」<br>・Утилизация, выброс, уничтожение<br>～<span style=\"color: rgb(255, 170, 0);\"><b>する</b></span>・Аннулировать, отказываться от использования<br><img src=\"paste-fa090e6810e28d41eb6ed0bcf4617390c2a0bc0b.png\">",
+                "",
+                "不良品を<b><span style=\"color: rgb(170, 170, 127);\">廃棄</span></b>した。ー　Бракованные товары <span style=\"color: rgb(170, 170, 127);\"><b>утилизировали</b></span>."
+            ],
+            "guid": "DQ?H%N`_7(",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:大昔.mp3]<br><img src=\"大.gif\"><img src=\"昔.gif\">\n",
+                "「<i><b>Существительное</b></i>」<br>・Глубокая древность<br>・Давным-давно<br><img src=\"paste-754e1cc686171234d332f68f388d7f58d9e41ed9.png\">",
+                "",
+                "<span style=\"color: rgb(170, 170, 127);\"><b>大昔</b></span>、この土地には海が広がっていた。ー　<span style=\"color: rgb(170, 170, 127);\"><b>В глубокой древности</b></span> здесь простиралось море."
+            ],
+            "guid": "u#,w?Q.n8H",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:成長期.mp3]<br><img src=\"成.gif\"><img src=\"長.gif\"><img src=\"期.gif\">\n",
+                "「<i><b>Существительное</b></i>」<br>・Период активного роста<br><img src=\"paste-27e6b0bdcb57f2cda96ef8efb12900f819c3bff9.png\">",
+                "",
+                "子供は<b><span style=\"color: rgb(170, 170, 127);\">成長期</span></b>によく食べる。ー　Дети <span style=\"color: rgb(170, 170, 127);\"><b>в период роста</b></span> много едят."
+            ],
+            "guid": "AilBP{^*.9",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:積み荷.mp3]<br><img src=\"積.gif\"><b>み</b><img src=\"荷.gif\">",
+                "「<i><b>Существительное</b></i>」<br>・Груз<br>・Перевозимый товар<br><img src=\"paste-0145001b9aeac705fe2421d2f551a8e9a8b26ada.png\">",
+                "",
+                "トラックの<b><span style=\"color: rgb(170, 170, 127);\">積み荷</span></b>が重すぎる。ー　<span style=\"color: rgb(170, 170, 127);\"><b>Груз </b></span>в грузовике слишком тяжёлый."
+            ],
+            "guid": "qjKf#h~Hk2",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:買い手.mp3]<br><img src=\"買.gif\"><b>い</b><img src=\"手.gif\">\n",
+                "「<i><b>Существительное</b></i>」<br>・Покупатель<br><img src=\"paste-20d825035e7eb678ca7dada1bcdfd811001c250f.png\">",
+                "",
+                "この商品は<b><span style=\"color: rgb(170, 170, 127);\">買い手</span></b>がなかなか見つからない。ー　На этот товар никак не находится <span style=\"color: rgb(170, 170, 127);\"><b>покупатель</b></span>."
+            ],
+            "guid": "p]=WuoV3?F",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:科学者.mp3]<br><img src=\"科.gif\"><img src=\"学.gif\"><img src=\"者.gif\">\n",
+                "「<i><b>Существительное</b></i>」<br>・Учёный<br><img src=\"paste-9c371ff7ea061f1152ebc9e35260272670d3fbf9.png\">",
+                "",
+                "彼は有名な<b><span style=\"color: rgb(170, 170, 127);\">科学者</span></b>だ。ー　Он известный <span style=\"color: rgb(170, 170, 127);\"><b>учёный</b></span>."
+            ],
+            "guid": "b5x)aiDD#*",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:生白い.mp3]<br><img src=\"生.gif\"><img src=\"白.gif\">（<span style=\"color: rgb(255, 165, 0);\"><b>い</b></span>）\n",
+                "「<i><b>い ー прилагательное</b></i>」<br>・Бледный, мертвенно-бледный<br>・Не имекющий цвета<br><img src=\"paste-8e8384d2e7884902c26c068f6695173b99b0454f.png\">",
+                "",
+                "彼は<b><span style=\"color: rgb(170, 170, 127);\">生白い</span></b>顔をしている。ー　У него <span style=\"color: rgb(170, 170, 127);\"><b>бледное</b></span>, нездоровое лицо."
+            ],
+            "guid": "MGA~F4Iupe",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:運び手.mp3]<br><img src=\"運.gif\"><b>び</b><img src=\"手.gif\">\n",
+                "「<b><i>Существительное</i></b>」<br>・Переносчик, носильщик<br>・Транспортирующая сторона<br>（<b>はこびて</b>）",
+                "",
+                "荷物の<b><span style=\"color: rgb(170, 170, 127);\">運び手</span></b>が足りない。ー　Не хватает людей, которые бы <span style=\"color: rgb(170, 170, 127);\"><b>переносили</b></span> груз."
+            ],
+            "guid": "B|yH]f!K$D",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:死ぬ気で.mp3]<br><b><img src=\"死.gif\">ぬ<img src=\"気.gif\">で</b>",
+                "「<i><b>Выражение</b></i>」<br>・Стараясь изо всех сил<br>（<b>しぬきで</b>）",
+                "",
+                "<b><span style=\"color: rgb(170, 170, 127);\">死ぬ気で</span></b>走れば間に合う。ー　Если побежишь <span style=\"color: rgb(170, 170, 127);\"><b>изо всех сил</b></span>, успеешь."
+            ],
+            "guid": "pHmMLR[W4G",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
             "tags": []
         }
