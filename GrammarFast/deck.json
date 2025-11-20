@@ -43,27 +43,27 @@
                 0.66095567
             ],
             "fsrsParams6": [
-                0.6494641,
-                4.461863,
-                17.026806,
-                53.282505,
-                6.4585457,
-                0.70200866,
-                3.069528,
-                0.059984438,
-                1.8457773,
-                0.21239671,
-                0.7767643,
-                1.4879788,
-                0.06390546,
-                0.29001313,
-                1.6675253,
-                0.6132385,
+                0.7465799,
+                4.3056726,
+                14.549462,
+                41.04982,
+                6.39576,
+                0.7433564,
+                3.0578501,
+                0.05990191,
+                1.9181529,
+                0.25450215,
+                0.84497815,
+                1.5490235,
+                0.05796638,
+                0.32921755,
+                1.7405204,
+                0.64086556,
                 1.8729,
-                0.67707324,
-                0.17018801,
-                0.080672204,
-                0.13287415
+                0.7783033,
+                0.21153314,
+                0.018054191,
+                0.13912797
             ],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "1970-01-01",
@@ -92,7 +92,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 0
+                "perDay": 100
             },
             "newGatherPriority": 2,
             "newMix": 1,
@@ -223,7 +223,7 @@
                     "preventDeletion": false,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true,
+                    "sticky": false,
                     "tag": null
                 },
                 {
@@ -332,7 +332,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "[sound:ことになる.mp3]<br>（<b><span style=\"color: rgb(170, 170, 127);\">る</span></b>）<b>～ことになる</b>",
+                "[sound:ことになる.mp3]<br><b>～</b>（<b><span style=\"color: rgb(170, 170, 127);\">る</span></b>）<b>ことになる</b>",
                 "・Было решенно「<b style=\"color: rgb(255, 165, 0);\"><i>A</i></b>」",
                 "",
                 ""
@@ -368,7 +368,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "[sound:ことはない.mp3]<br>（<span style=\"color: rgb(170, 170, 127);\"><b>る</b></span>）<b>～ことはない</b>",
+                "[sound:ことはない.mp3]<br><b>～</b>（<span style=\"color: rgb(170, 170, 127);\"><b>る</b></span>）<b>ことはない</b>",
                 "・Нет необходимости в「<span style=\"color: rgb(255, 165, 0);\"><b><i>A</i></b></span>」<br>・「<span style=\"color: rgb(255, 165, 0);\"><b><i>A</i></b></span>」никогда не случится",
                 "",
                 ""
@@ -466,7 +466,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "[sound:ことだ.mp3]<br>（<span style=\"color: rgb(170, 170, 127);\"><b>る</b></span>）<b>～ことだ</b>",
+                "[sound:ことだ.mp3]<br><b>～</b>（<span style=\"color: rgb(170, 170, 127);\"><b>る</b></span>）<b>ことだ</b>",
                 "・Должен сделать「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
                 ""
@@ -562,7 +562,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>～が必要<br>（<span style=\"color: rgb(170, 170, 127);\">る</span>）～</b><b><span style=\"color: rgb(170, 170, 127);\">こと</span></b><b>が必要<br></b><b>（<span style=\"color: rgb(170, 170, 127);\">る</span>）</b><b>～必要がある</b>",
+                "<b>～が必要<br>～</b>（<b><span style=\"color: rgb(170, 170, 127);\">る</span></b>）<b><span style=\"color: rgb(170, 170, 127);\">こと</span>が必要</b><br><b>～</b>（<b><span style=\"color: rgb(170, 170, 127);\">る</span></b>）<b>必要がある</b>",
                 "・Нужно「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
                 ""
@@ -598,7 +598,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>（~~<span style=\"color: rgb(170, 170, 127);\">ます</span>~~）～続ける</b>",
+                "<b>（~~<span style=\"color: rgb(170, 170, 127);\">ます</span>~~）</b><b>続ける</b>",
                 "・Продолжать「<span style=\"color: rgb(255, 165, 0);\"><b><i>A</i></b></span>」",
                 "",
                 ""
@@ -610,7 +610,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "<b>（~~<span style=\"color: rgb(170, 170, 127);\">ます</span>~~）～ながら、～</b>",
+                "<b>～</b><b>（~~<span style=\"color: rgb(170, 170, 127);\">ます</span>~~）</b><b>ながら、～</b>",
                 "・Делал「<span style=\"color: rgb(255, 165, 0);\"><b><i>B</i></b></span>」, пока 「<span style=\"color: rgb(255, 165, 0);\"><b><i>A</i></b></span>」",
                 "",
                 ""
@@ -673,7 +673,7 @@
                 "～<b>はず</b><br>～<b><span style=\"color: rgb(170, 170, 127);\">な</span>はず</b><br>～<b><span style=\"color: rgb(170, 170, 127);\">の</span>はず</b>",
                 "・Полная уверенность в「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」на основе чего-то",
                 "",
-                "今日、木曜日だから、図書館は開いている<span style=\"color: rgb(255, 165, 0);\"><b>はず</b></span>だ。ー　\"Сегодня четверг, поэтому библиотека <span style=\"color: rgb(255, 165, 0);\"><b>должна </b></span>быть открыта.\" (Основано на знании, что библиотека работает по четвергам.)"
+                "今日、木曜日だから、図書館は開いている<span style=\"color: rgb(170, 170, 127);\"><b>はず</b></span>だ。ー　Сегодня четверг, поэтому библиотека <b><span style=\"color: rgb(170, 170, 127);\">должна</span><span style=\"color: rgb(255, 165, 0);\"> </span></b>быть открыта."
             ],
             "guid": "p}*&T4oDAJ",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -733,7 +733,7 @@
                 "<b>～ないといけない<br></b><b>～ないとダメ<br></b><b>～ないと</b>",
                 "・Должен сделать「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
-                "宿題を<b><span style=\"color: rgb(255, 165, 0);\">しないといけない</span></b>。ー　Я <span style=\"color: rgb(255, 165, 0);\"><b>должен</b> </span>сделать домашнее задание."
+                "宿題を<span style=\"color: rgb(170, 170, 127);\"><b>しないといけない</b></span>。ー　Я <span style=\"color: rgb(170, 170, 127);\"><b>должен</b></span><span style=\"color: rgb(255, 165, 0);\"> </span>сделать домашнее задание."
             ],
             "guid": "FI*1^WvyzH",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -805,7 +805,7 @@
                 "各～",
                 "・Каждый「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
-                "<span style=\"color: rgb(255, 165, 0);\"><b>各</b></span>部屋にエアコンがあります。ー　<b>В <span style=\"color: rgb(255, 165, 0);\">каждой</span></b><span style=\"color: rgb(255, 165, 0);\"> </span>комнате есть кондиционер."
+                "<span style=\"color: rgb(170, 170, 127);\"><b>各</b></span>部屋にエアコンがあります。ー　<b>В <span style=\"color: rgb(170, 170, 127);\">каждой</span></b><span style=\"color: rgb(255, 165, 0);\"> </span>комнате есть кондиционер."
             ],
             "guid": "qRlW8kK4Y`",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -841,7 +841,7 @@
                 "<b>少しも～ない<br></b><b>少しも～<span style=\"color: rgb(170, 170, 127);\">く</span>ない<br></b><b>少しも～<span style=\"color: rgb(170, 170, 127);\">では</span>ない</b>",
                 "・Ничуть「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」, ни капельки「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」",
                 "",
-                "彼の話は<b><span style=\"color: rgb(255, 165, 0);\">少しも</span></b>面白く<b><span style=\"color: rgb(255, 165, 0);\">なかった</span></b>。ー　Его рассказ <b><span style=\"color: rgb(255, 165, 0);\">ничуть не</span></b> был интересным.<br>この場所は<b><span style=\"color: rgb(255, 165, 0);\">少しも</span></b>寒<b><span style=\"color: rgb(170, 170, 127);\">く</span><span style=\"color: rgb(255, 165, 0);\">ない</span></b>。ー　В этом месте <b><span style=\"color: rgb(255, 165, 0);\">совсем не</span></b> холодно."
+                "彼の話は<b><span style=\"color: rgb(170, 170, 127);\">少しも</span></b>面白<span style=\"color: rgb(170, 170, 127);\"><b>くなかった</b></span>。ー　Его рассказ <span style=\"color: rgb(170, 170, 127);\"><b>ничуть не</b></span> был интересным.<br>この場所は<b><span style=\"color: rgb(170, 170, 127);\">少しも</span></b>寒<b><span style=\"color: rgb(170, 170, 127);\">くない</span></b>。ー　В этом месте <span style=\"color: rgb(170, 170, 127);\"><b>совсем не</b></span> холодно."
             ],
             "guid": "Fai:-R:c^Y",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -1311,7 +1311,7 @@
                 "<b>～</b><b>だけで</b>",
                 "・Всего лишь「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」<br>・Достаточно лишь「<i style=\"color: rgb(255, 165, 0);\"><b>A</b></i>」<br>・Только благодаря「<i style=\"color: rgb(255, 165, 0);\"><b>A</b></i>」",
                 "",
-                "見る<span style=\"color: rgb(255, 165, 0);\"><b>だけで</b></span>心が満たされる。ー　<span style=\"color: rgb(255, 165, 0);\"><b>Всего лишь от одного</b></span> взгляда сердце наполняется. (Подчёркивает, что одного взгляда достаточно.)"
+                "見る<span style=\"color: rgb(170, 170, 127);\"><b>だけで</b></span>心が満たされる。ー　<span style=\"color: rgb(170, 170, 127);\"><b>Всего лишь от одного</b></span> взгляда сердце наполняется."
             ],
             "guid": "d!U^.pFqqE",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -1467,7 +1467,7 @@
                 "<b>～<span style=\"color: rgb(170, 170, 127);\">て</span>くださる<br>～<span style=\"color: rgb(170, 170, 127);\">て</span>くれる</b>",
                 "・Кто-то делает одолжение или совершает действие в вашу пользу",
                 "<img src=\"paste-2677e783e045f428259357d6f82ceb066185ac92.png\">",
-                "友達が日本語を教え<b><span style=\"color: rgb(170, 170, 127);\">て</span><span style=\"color: rgb(255, 165, 0);\">くれた</span></b>。ー Друг <b>научил</b> меня японскому.<br>先生が日本語を教え<b><span style=\"color: rgb(170, 170, 127);\">て</span><span style=\"color: rgb(255, 165, 0);\">くださった</span></b>。ー Учитель <b>научил</b> меня японскому."
+                "友達が日本語を教え<b><span style=\"color: rgb(170, 170, 127);\">てくれた</span></b>。ー Друг <b>научил</b> меня японскому.<br>先生が日本語を教え<span style=\"color: rgb(170, 170, 127);\"><b>てくださった</b></span>。ー Учитель <b>научил</b> меня японскому."
             ],
             "guid": "u$G}GSEn9K",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -5292,6 +5292,138 @@
             "tags": [
                 "N3"
             ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<div><b>たとえ～ても</b></div>",
+                "・Даже если「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」<br>・Пусть даже「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」",
+                "",
+                "<b><span style=\"color: rgb(170, 170, 127);\">たとえ</span></b>雨が降っ<b><span style=\"color: rgb(170, 170, 127);\">ても</span></b>、試合は行われます。ー　<span style=\"color: rgb(170, 170, 127);\"><b>Даже если</b></span> пойдёт дождь, матч всё равно состоится."
+            ],
+            "guid": "Oa~MrDQfW?",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>～と同じくらい～</b>",
+                "・Такой же（<b><span style=\"color: rgb(255, 170, 0);\">C</span></b>）, как 「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」",
+                "",
+                "東京は大阪<b><span style=\"color: rgb(170, 170, 127);\">と同じくらい</span></b>暑い。ー　В Токио <b><span style=\"color: rgb(170, 170, 127);\">так же</span></b> жарко, <span style=\"color: rgb(170, 170, 127);\"><b>как </b></span>в Осаке"
+            ],
+            "guid": "v-$S0P9v]`",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>～（<span style=\"color: rgb(170, 170, 127);\">だ</span>）そうだ</b>",
+                "・Говорят, что「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」<br>・Слышал, что「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」",
+                "",
+                "<div>天気予報によると、明日は雨が降る<b><span style=\"color: rgb(170, 170, 127);\">そうです</span></b>。ー　По прогнозу погоды, <span style=\"color: rgb(170, 170, 127);\"><b>говорят</b></span>, завтра будет дождь.</div>"
+            ],
+            "guid": "QB5YFC[qfU",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>～からいうと<br>～（<span style=\"color: rgb(170, 170, 127);\">の立場</span>）からいうと</b>",
+                "・Если судить по「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」<br>・С точки зрения「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」",
+                "<b><span style=\"color: rgb(170, 170, 127);\">の立場&nbsp;</span></b>подчёркивает позицию человека или группы",
+                "見た目<b><span style=\"color: rgb(170, 170, 127);\">からいうと</span></b>、彼はまだ学生のようだ。ー　<span style=\"color: rgb(170, 170, 127);\"><b>Если судить по</b></span> внешности, он похож на студента.<br><br><div>親<b><span style=\"color: rgb(170, 170, 127);\">の立場からいうと</span></b>、子供の安全が一番大切です。ー　<span style=\"color: rgb(170, 170, 127);\"><b>С точки зрения</b></span> родителей, безопасность детей — самое важное.</div>"
+            ],
+            "guid": "k[~84:(BWE",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>～よりずっと～</b>",
+                "・Гораздо（<b><span style=\"color: rgb(255, 170, 0);\">C</span></b>）, чем「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」",
+                "",
+                "<div>東京は大阪<b><span style=\"color: rgb(170, 170, 127);\">よりずっと</span></b>大きいです。ー　Токио <b><span style=\"color: rgb(170, 170, 127);\">гораздо</span> </b>больше, чем Осака.</div>"
+            ],
+            "guid": "xMRyoPzout",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>～くらい～<br>～<span style=\"color: rgb(170, 170, 127);\">な</span>くらい～</b>",
+                "・Настолько「<span style=\"color: rgb(255, 170, 0);\"><i><b>B</b></i></span>」, что「<b><span style=\"color: rgb(255, 170, 0);\"><i>A</i></span></b>」<br>・До такой степени「<span style=\"color: rgb(255, 170, 0);\"><i><b>B</b></i></span>」, что「<b><span style=\"color: rgb(255, 170, 0);\"><i>A</i></span></b>」",
+                "",
+                "<div>死ぬ<b><span style=\"color: rgb(170, 170, 127);\">くらい</span></b>疲れた。ー　<b><span style=\"color: rgb(170, 170, 127);\">Настолько</span></b> устала, <span style=\"color: rgb(170, 170, 127);\"><b>что</b></span> можно умереть</div>"
+            ],
+            "guid": "nlUq07p!xX",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>～（<span style=\"color: rgb(170, 170, 127);\">る</span>）んじゃない</b>",
+                "・Запрет / упрёк не делать「<i><span style=\"color: rgb(255, 170, 0);\"><b>A</b></span></i>」（<span style=\"color: rgb(255, 170, 255);\"><i>резкая повелительная интонация</i></span>）",
+                "",
+                "<div>うるさく<b><span style=\"color: rgb(170, 170, 127);\">するんじゃない</span></b>！ ー　<span style=\"color: rgb(170, 170, 127);\"><b>Не</b></span> шуми!</div>"
+            ],
+            "guid": "C~DTo^!;,X",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>まるで～ようだ<br></b><b>まるで～<span style=\"color: rgb(170, 170, 127);\">の</span>ようだ<br></b><b>まるで～<span style=\"color: rgb(170, 170, 127);\">な</span>ようだ</b>",
+                "・Словно「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」<br>・Будто「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」",
+                "",
+                "<div><b><span style=\"color: rgb(170, 170, 127);\">まるで</span></b>子供<b><span style=\"color: rgb(170, 170, 127);\">のように</span></b>笑っている。　ー　Смеётся, <span style=\"color: rgb(170, 170, 127);\"><b>словно </b></span>ребёнок</div>"
+            ],
+            "guid": "ONz_^r#V][",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>言うまでもない、～<br></b><b>～</b><b><span style=\"color: rgb(170, 170, 127);\">のは</span>言うまでもない</b>",
+                "・Не стоит и говорить「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」<br>・Само собой разумеется「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」",
+                "",
+                "この結果は<span style=\"color: rgb(170, 170, 127);\"><b>言うまでもなく</b></span>、彼の努力のたまものだ。ー　Этот результат, само собой, — плод его стараний."
+            ],
+            "guid": "J!(GXZ%STO",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>～と並んで</b>",
+                "・Наряду с「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」<br>・Наравне с「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」",
+                "",
+                "東京<b><span style=\"color: rgb(170, 170, 127);\">と並んで</span></b>、大阪も日本の大都市だ。ー　Осака, <span style=\"color: rgb(170, 170, 127);\"><b>наряду с</b></span> Токио, — крупный город Японии."
+            ],
+            "guid": "xec~w)``+p",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<b>～と並ぶほど</b>",
+                "・До такой степени, что можно поставить в один ряд с「<span style=\"color: rgb(255, 170, 0);\"><i><b>A</b></i></span>」",
+                "",
+                "京都<b><span style=\"color: rgb(170, 170, 127);\">と並ぶほど</span></b>美しい町は、そう多くない。ー　Городов, <b><span style=\"color: rgb(170, 170, 127);\">столь же</span></b> красивых, <span style=\"color: rgb(170, 170, 127);\"><b>как </b></span>Киото, немного."
+            ],
+            "guid": "tw@W;z-I-j",
+            "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+            "tags": []
         }
     ],
     "reviewLimit": null,
