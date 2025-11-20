@@ -6653,7 +6653,7 @@
                         "[sound:安らぎ.mp3]<br><img src=\"安.gif\"><b>ら</b><b>ぎ</b>",
                         "「<i><b>Существительное</b></i>」<br>・Покой, умиротворение<br><img src=\"paste-6c1e4eaabae3b6238a25f277e49c7096fa5e4757.png\">",
                         "",
-                        ""
+                        "家族と過ごす時間が一番の<b><span style=\"color: rgb(170, 170, 127);\">安らぎ</span></b>だ。ー　Время, проведённое с семьёй, — мой главный источник <span style=\"color: rgb(170, 170, 127);\"><b>покоя</b></span>."
                     ],
                     "guid": "idV=|A.M%>",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -6667,7 +6667,7 @@
                         "[sound:絶望.mp3]<br><img src=\"絶.gif\"><img src=\"望.gif\">（<span style=\"color: rgb(255, 165, 0);\"><b>する</b></span>）",
                         "「<b><i>する ー глагол</i></b>」<br>・Отчаяние, безнадёжность<br>～<span style=\"color: rgb(255, 165, 0);\"><b>する</b></span>・Отчаиваться, терять надежду<br><img src=\"paste-ab0ca82bc627ef8a65d7827881238258758b5127.png\">",
                         "",
-                        ""
+                        "全てを失って<b><span style=\"color: rgb(170, 170, 127);\">絶望</span></b><span style=\"color: rgb(255, 170, 255);\">した</span>。ー　Потеряв всё, я <span style=\"color: rgb(170, 170, 127);\"><b>впал в отчаяние</b></span>."
                     ],
                     "guid": "Fy{|9aXr13",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -6681,7 +6681,7 @@
                         "[sound:愛着.mp3]<br><img src=\"愛.gif\"><img src=\"着.gif\">（<span style=\"color: rgb(255, 165, 0);\"><b>する</b></span>）",
                         "「<b><i>する ー глагол</i></b>」<br>・Привязанность<br>～<span style=\"color: rgb(255, 165, 0);\"><b>する</b></span>・Привязываться<br><img src=\"paste-88c6f28c8aedf8f3caf1453ee3836fdb1621e350.png\">",
                         "",
-                        ""
+                        "このぬいぐるみに強い<b><span style=\"color: rgb(170, 170, 127);\">愛着</span></b>がある。ー　У меня сильная <span style=\"color: rgb(170, 170, 127);\"><b>привязанность</b></span> к этой мягкой игрушке."
                     ],
                     "guid": "vetO`c|^#v",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -14963,7 +14963,7 @@
                         "[sound:挙げ句.mp3]<br><img src=\"挙.gif\"><b>げ</b><img src=\"句.gif\">",
                         "「<i><b>Существительное</b></i>」<br>・В конце концов, в итоге<br><img src=\"paste-02e091e3ad10e926dfb18d15f32844dfc529ae35.png\">",
                         "",
-                        ""
+                        "さんざん迷った<b><span style=\"color: rgb(170, 170, 127);\">挙げ句</span></b>、彼は何も買わなかった。ー　После долгих колебаний он <span style=\"color: rgb(170, 170, 127);\"><b>в итоге</b></span> ничего не купил."
                     ],
                     "guid": "j{o!hz8qP.",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -15005,7 +15005,7 @@
                         "[sound:運命.mp3]<br><img src=\"運.gif\"><img src=\"命.gif\">",
                         "「<i><b>Существительное</b></i>」<br>・Судьба<br><img src=\"paste-d87f554530ca86e56d8a30359cad4e8de046a644.png\">",
                         "",
-                        ""
+                        "これは私の<b><span style=\"color: rgb(170, 170, 127);\">運命</span></b>だと受け入れた。ー　Я принял это как <span style=\"color: rgb(170, 170, 127);\"><b>свою</b></span> судьбу."
                     ],
                     "guid": "mdJ/FvTnDT",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -15100,10 +15100,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "[sound:暴れる.mp3]<br><img src=\"暴.gif\">（<span style=\"color: rgb(255, 165, 0);\"><b>れる</b></span>）\n",
+                        "[sound:暴れる.mp3]<br>【<span style=\"color: rgb(170, 170, 127);\"><b>が</b></span>】<img src=\"暴.gif\">（<b><span style=\"color: rgb(255, 165, 0);\">れる</span></b>）\n",
                         "「<i><b>Непереходный глагол</b></i>」<br>・Буйствовать, дебоширить<br><img src=\"paste-dc625d42ed7268735320af7b281d1e96ebc23eea.png\">",
                         "",
-                        ""
+                        "酔っ払いが電車の中で<b><span style=\"color: rgb(170, 170, 127);\">暴れた</span></b>。ー　Пьяный <span style=\"color: rgb(170, 170, 127);\"><b>буянствовал</b></span> в поезде."
                     ],
                     "guid": "A$?:L9bDi<",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -15131,7 +15131,7 @@
                         "[sound:愚か.mp3]<br><img src=\"愚.gif\"><b>か</b>（<b><span style=\"color: rgb(255, 170, 0);\">な</span></b>）",
                         "「<i><b>な ー прилагательное</b></i>」<br>・Глупый, бессмысленный<br><img src=\"paste-d89ff64a6579e4ec79d6148db187587f1c006682.png\">",
                         "",
-                        ""
+                        "そんな<span style=\"color: rgb(170, 170, 127);\"><b>愚か</b></span><span style=\"color: rgb(255, 170, 255);\">な</span>ことをするな。ー　Не делай такой <span style=\"color: rgb(170, 170, 127);\"><b>глупости</b></span>."
                     ],
                     "guid": "Mz1W8-,R@h",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -15145,7 +15145,7 @@
                         "[sound:恨み.mp3]<br><img src=\"恨.gif\"><b>み</b>",
                         "「<i><b>Существительное</b></i>」<br>・Досада, обида, горечь; злоба<br><img src=\"paste-4e3af935f2f9de5bbcdf983fa590d698abda5cfa.png\">",
                         "",
-                        ""
+                        "彼はまだ昔のことで<b><span style=\"color: rgb(170, 170, 127);\">恨み</span></b>を持っている。ー　Он всё ещё держит <span style=\"color: rgb(170, 170, 127);\"><b>обиду</b></span> за то, что случилось давно."
                     ],
                     "guid": "tqb.3{0]?g",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -16204,6 +16204,7 @@
                 "paste-aee2bda01e2a6c5f5bfe2d8eebc4ecc093274ccf.png",
                 "paste-af42e6e742004549305cb7b60fd854c64b319c6b.png",
                 "paste-af648a0b162828e60234cbc66a2a6b524cb5c14e.png",
+                "paste-af818210425ec01b949cf3f68cc5d911b4d12438.png",
                 "paste-afea245858093367d53aa1589b0209b5ccd028d4.png",
                 "paste-aff166bb63526d432c0c74f861c6d20f6dcfd722.png",
                 "paste-b021416c620afba1d8f3bbc152e9e42d922e9f10.png",
@@ -16336,6 +16337,7 @@
                 "paste-d5b3878ee48faf88b87dc0f3497216986ba9c3ed.png",
                 "paste-d5fe0517150eb2878641e6278a785e7a45832ecc.png",
                 "paste-d60478f38ff66269daae85550fcb4a372dd4d7c4.png",
+                "paste-d60a5aa299b1d2c6a91f2800f09e06a74213774d.png",
                 "paste-d7022ae884d790bd6bbe4c42f7049daab2ff133e.png",
                 "paste-d726c982afa186b6708abaadbb6852e15d13eb3f.png",
                 "paste-d756a687e82b4cccf4a6a206ee73179c902dae48.png",
@@ -17457,6 +17459,8 @@
                 "模様.mp3",
                 "権.gif",
                 "権利.mp3",
+                "橙.gif",
+                "橙色.mp3",
                 "機.gif",
                 "機能.mp3",
                 "機関.mp3",
@@ -17887,6 +17891,7 @@
                 "航空.mp3",
                 "般.gif",
                 "船.gif",
+                "色.gif",
                 "花.gif",
                 "花火.mp3",
                 "芸.gif",
@@ -18270,6 +18275,7 @@
                 "骨.mp3",
                 "高.gif",
                 "高度.mp3",
+                "高温.mp3",
                 "高級.mp3",
                 "高速.mp3",
                 "鬼.gif",
@@ -31341,7 +31347,7 @@
                         "[sound:間違う.mp3]<br><img src=\"間.gif\"><img src=\"違.gif\">（<b><span style=\"color: rgb(255, 170, 0);\">う</span></b>）",
                         "「<i><b>Непереходный глагол</b></i>」<br>・Ошибаться, быть неправильным<br><img src=\"paste-ff0824bf71a91f53090648042bcaa47cea77fcb1.png\">",
                         "",
-                        ""
+                        "テストで答えを<b><span style=\"color: rgb(170, 170, 127);\">間違えた</span></b>。ー　Я <span style=\"color: rgb(170, 170, 127);\"><b>ошибся</b></span> в ответе на тесте."
                     ],
                     "guid": "g[N{nhsd4X",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -31355,7 +31361,7 @@
                         "[sound:正解.mp3]<br><img src=\"正.gif\"><img src=\"解.gif\">",
                         "「<i><b>する ー глагол</b></i>」<br>・Правильный ответ, правильный<br><img src=\"paste-2c85bd631b219771c493516b6a2f9e6b98243d82.png\">",
                         "",
-                        ""
+                        "この問題の<b><span style=\"color: rgb(170, 170, 127);\">正解</span></b>は「B」です。ー　<span style=\"color: rgb(170, 170, 127);\"><b>Правильный ответ</b></span> на этот вопрос — «B»."
                     ],
                     "guid": "x&A1QF@A.q",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -31411,7 +31417,7 @@
                         "[sound:頼み.mp3]<br><img src=\"頼.gif\"><b>み</b>",
                         "「<i><b>Существительное</b></i>」<br>・Просьба, запрос<br><img src=\"paste-8791e272104b611e01b07d5f08cc8d0aeec9be0c.png\">",
                         "",
-                        ""
+                        "ちょっと<b><span style=\"color: rgb(170, 170, 127);\">頼み</span></b>があるんだけど、聞いてくれる？　ー　У меня есть одна <span style=\"color: rgb(170, 170, 127);\"><b>просьба</b></span>, можешь послушать?"
                     ],
                     "guid": "KhD&W(wJS/",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -31694,6 +31700,34 @@
                         "このゲームの<b><span style=\"color: rgb(170, 170, 127);\">難易度</span></b>は高い。ー　У этой игры высокий <span style=\"color: rgb(170, 170, 127);\"><b>уровень сложности</b></span>."
                     ],
                     "guid": "kT(S%*sf,g",
+                    "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+                    "tags": [
+                        "N3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[sound:橙色.mp3]<br><img src=\"橙.gif\"><img src=\"色.gif\">",
+                        "「<i><b>Существительное</b></i>」<br>・Оранжевый цвет<br><img src=\"paste-d60a5aa299b1d2c6a91f2800f09e06a74213774d.png\">",
+                        "",
+                        "空が<b><span style=\"color: rgb(170, 170, 127);\">橙色</span></b>に染まっている。ー　Небо окрашено в <span style=\"color: rgb(170, 170, 127);\"><b>оранжевый цвет</b></span>."
+                    ],
+                    "guid": "w,:-#3jf[3",
+                    "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
+                    "tags": [
+                        "N3"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "[sound:高温.mp3]<br><img src=\"高.gif\"><img src=\"温.gif\">",
+                        "「<i><b>Существительное</b></i>」<br>・Высокая температура<br><img src=\"paste-af818210425ec01b949cf3f68cc5d911b4d12438.png\">",
+                        "",
+                        "金属を<b><span style=\"color: rgb(170, 170, 127);\">高温</span></b>で溶かす。ー　Расплавляют металл <span style=\"color: rgb(170, 170, 127);\"><b>при высокой</b></span> температуре."
+                    ],
+                    "guid": "ppd>vrG4pw",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
                     "tags": [
                         "N3"
@@ -61828,7 +61862,7 @@
                         "[sound:前.mp3]<br>「<span style=\"color: rgb(255, 165, 0);\"><i><b>A</b></i></span>」<img src=\"前.gif\">",
                         "「<b><i>Суффикс</i></b>」<br>・До, перед чем-то (<span style=\"color: rgb(170, 170, 127);\"><i>по времени</i></span>)<br>・За какое-то время до события<br><img src=\"paste-bbced96624b3ba9b0bc08ce0765cf226d07ff3d7.png\">",
                         "",
-                        "十年<b><span style=\"color: rgb(170, 170, 127);\">前</span></b>に日本へ行った。ー&nbsp;Десять лет <span style=\"color: rgb(170, 170, 127);\"><b>назад</b></span> поехал в Японию.)"
+                        "十年<b><span style=\"color: rgb(170, 170, 127);\">前</span></b>に日本へ行った。ー&nbsp;Десять лет <span style=\"color: rgb(170, 170, 127);\"><b>назад</b></span> поехал в Японию."
                     ],
                     "guid": "MzAoW*eRA%",
                     "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -69914,27 +69948,27 @@
                 0.66095567
             ],
             "fsrsParams6": [
-                0.72140366,
-                4.6028867,
-                16.685305,
-                49.977917,
-                6.4273305,
-                0.78025895,
-                3.0120623,
-                0.039764423,
-                1.8848311,
-                0.21957766,
-                0.81824386,
-                1.5341854,
-                0.06365838,
-                0.33625492,
-                1.7222852,
-                0.62423986,
+                0.7465799,
+                4.3056726,
+                14.549462,
+                41.04982,
+                6.39576,
+                0.7433564,
+                3.0578501,
+                0.05990191,
+                1.9181529,
+                0.25450215,
+                0.84497815,
+                1.5490235,
+                0.05796638,
+                0.32921755,
+                1.7405204,
+                0.64086556,
                 1.8729,
-                0.68250537,
-                0.1564723,
-                0.08196969,
-                0.15445213
+                0.7783033,
+                0.21153314,
+                0.018054191,
+                0.13912797
             ],
             "fsrsWeights": [],
             "ignoreRevlogsBeforeDate": "1970-01-01",
@@ -69963,7 +69997,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 0
+                "perDay": 100
             },
             "newGatherPriority": 2,
             "newMix": 1,
@@ -69992,7 +70026,7 @@
     "desc": "",
     "desiredRetention": 90,
     "dyn": 0,
-    "extendNew": 30,
+    "extendNew": 1,
     "extendRev": 0,
     "media_files": [
         "paste-00a29f2a93a6549c7d681805dafacf1bb65243a9.png",
@@ -70970,7 +71004,7 @@
                 "[sound:やってくる.mp3]<br><b>やってくる</b>",
                 "「<i><b>Глагол</b></i>」<br>・Приходить, наступать, приблежаться<br><img src=\"paste-aaca7a9a4ceb2814012901742a89dbacf1b7cc02.png\">",
                 "<span style=\"color: rgb(170, 170, 127);\"><i><b>Разговорное</b></i></span>",
-                ""
+                "彼が突然家に<b><span style=\"color: rgb(170, 170, 127);\">やってきた</span></b>。ー　Он внезапно <span style=\"color: rgb(170, 170, 127);\"><b>пришёл</b></span> ко мне домой."
             ],
             "guid": "MypFR%``|3",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -70982,7 +71016,7 @@
                 "[sound:口笛を吹く.mp3]<br><img src=\"口.gif\"><img src=\"笛.gif\"><b>を</b><img src=\"吹.gif\">（<b><span style=\"color: rgb(255, 170, 0);\">く</span></b>）",
                 "「<i><b>Идиома</b></i>」<br>・Свистеть<br>「<b>くちぶえをくふく</b>」",
                 "",
-                ""
+                "彼は散歩しながら楽しそうに<span style=\"color: rgb(170, 170, 127);\"><b>口笛を吹いて</b></span>いた。ー　Он весело <span style=\"color: rgb(170, 170, 127);\"><b>насвистывал</b></span>, гуляя."
             ],
             "guid": "W@,XJro<@",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -71006,7 +71040,7 @@
                 "[sound:穏やか.mp3]<br><img src=\"穏.gif\"><b>や</b><b>か</b>（<b><span style=\"color: rgb(255, 170, 0);\">な</span></b>）",
                 "「<b><i>な ー прилагательное</i></b>」<br>～<span style=\"color: rgb(255, 165, 0);\"><b>な</b></span>・Спокойный, тихий, мирный<br>～<span style=\"color: rgb(255, 165, 0);\"><b>な</b></span>・Умеренный, разумный<br><img src=\"paste-cc016a36319837c839f205cdc1bcbe4ea830ed82.png\">",
                 "",
-                ""
+                "今日は風もなく、とても<span style=\"color: rgb(170, 170, 127);\"><strong>穏やか</strong></span><span style=\"color: rgb(255, 170, 255);\">な</span>天気だ。ー　Сегодня безветренно и очень тихо — погода <b><span style=\"color: rgb(170, 170, 127);\">спокойная</span></b>."
             ],
             "guid": "ngR_XVugv:",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -71030,7 +71064,7 @@
                 "[sound:ありとあらゆる.mp3]<br><b>ありとあらゆる</b>",
                 "「<i><b>Пред-именное слово</b></i>」<br>・Всевозможный, любой<br><img src=\"paste-ec6f9fbbe20caebcc2aaa607f7bbd9f874bf421e.png\">",
                 "",
-                ""
+                "彼は<span style=\"color: rgb(170, 170, 127);\"><strong>ありとあらゆる</strong></span>方法を試したが、うまくいかなかった。ー　Он перепробовал <b><span style=\"color: rgb(170, 170, 127);\">все возможные способы</span></b>, но ничего не вышло."
             ],
             "guid": "sU^}EB3Ff(",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -71066,7 +71100,7 @@
                 "[sound:だらり.mp3]<br><b>だらり</b>【<span style=\"color: rgb(255, 165, 0);\"><b>と</b></span>】",
                 "「<b><i>Наречие</i></b>」<br>（～<span style=\"color: rgb(255, 165, 0);\"><b>と</b></span>）・Вяло, слабо<br><img src=\"paste-b30f117c4bc7007e08d029c652f71ff6e58f0226.png\">",
                 "",
-                ""
+                "死体がロープに<b><span style=\"color: rgb(170, 170, 127);\">だらり</span></b><span style=\"color: rgb(255, 170, 255);\">と</span>ぶら下がっていた。ー　Труп <span style=\"color: rgb(170, 170, 127);\"><b>безвольно</b></span> висел на верёвке."
             ],
             "guid": "z<Z5^B$&v{",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -71078,7 +71112,7 @@
                 "[sound:困惑.mp3]<br><img src=\"困.gif\"><img src=\"惑.gif\">（<span style=\"color: rgb(255, 165, 0);\"><b>する</b></span>）",
                 "「<b><i>する ー глагол</i></b>」<br>・Замешательство, растерянность<br>～<span style=\"color: rgb(255, 165, 0);\"><b>する</b></span>・Быть в замешательстве, теряться<br><img src=\"paste-d839631585150bb8192e2a2b76db8dacee9633f2.png\">",
                 "",
-                ""
+                "突然の質問に<span style=\"color: rgb(170, 170, 127);\"><b>困惑</b></span>した。ー　Я <span style=\"color: rgb(170, 170, 127);\"><b>растерялся</b> </span>из-за неожиданного вопр"
             ],
             "guid": "sswl:+6B/`",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -71090,7 +71124,7 @@
                 "[sound:疑い.mp3]<br><img src=\"疑.gif\"><b>い</b>",
                 "「<i><b>Существительное</b></i>」<br>・Сомнение, подозрение<br><img src=\"paste-519b1560f1ad8cb48158388e832c9382c05f6382.png\">",
                 "",
-                ""
+                "彼の話には少し<b><span style=\"color: rgb(170, 170, 127);\">疑い</span></b>がある。ー　В его рассказе есть некоторое <span style=\"color: rgb(170, 170, 127);\"><b>сомнение</b></span>."
             ],
             "guid": "b$xl79iWsi",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
@@ -71099,10 +71133,10 @@
         {
             "__type__": "Note",
             "fields": [
-                "[sound:怯える.mp3]<br><img src=\"怯.gif\">（<span style=\"color: rgb(255, 165, 0);\"><b>える</b></span>）",
+                "[sound:怯える.mp3]<br>【<span style=\"color: rgb(170, 170, 127);\"><b>が</b></span>】<img src=\"怯.gif\">（<b><span style=\"color: rgb(255, 165, 0);\">える</span></b>）",
                 "「<i><b>Непереходный глагол</b></i>」<br>・Пугаться, быть испуганным<br><img src=\"paste-540364a4665251522deff2b53372cbcee2469f85.png\">",
                 "",
-                ""
+                "子どもは大きな犬を見て<b><span style=\"color: rgb(170, 170, 127);\">怯えた</span></b>。ー　Ребёнок <span style=\"color: rgb(170, 170, 127);\"><b>испугался</b></span> большой собаки."
             ],
             "guid": "q~Cut?GHT-",
             "note_model_uuid": "15ff01fe-a5dd-11f0-8b66-d8bbc1cdd2c4",
